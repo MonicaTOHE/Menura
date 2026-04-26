@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. Theme.EdgeToEdge comes from react-native-edge-to-edge
+         and provides a system theme that automatically draws behind the system bars
+         (required for Android 15 / target SDK 35+). -->
+    <style name="AppTheme" parent="Theme.EdgeToEdge">
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+
+</resources>

@@ -1,0 +1,1821 @@
+{
+  "receta_omelette_queso_003": {
+    "title": "Cheese Omelette",
+    "description": "Classic cheese omelette.",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Grated cheese",
+      "Salt",
+      "Pepper",
+      "Butter"
+    ],
+    "steps": [
+      "Beat eggs with milk.",
+      "Melt butter and pour the mixture.",
+      "Add cheese and fold the omelet.",
+      "Cook just until the inside is still juicy."
+    ]
+  },
+  "receta_smoothie_platano_avena_004": {
+    "title": "Banana and Oatmeal Smoothie",
+    "description": "Fast and creamy smoothie.",
+    "ingredients": [
+      "Banana",
+      "Milk",
+      "Oatmeal",
+      "Honey"
+    ],
+    "steps": [
+      "Blend everything until creamy.",
+      "Add more milk if you want it more liquid."
+    ]
+  },
+  "receta_yogur_granola_fruta_005": {
+    "title": "Yogurt with Granola and Fruits",
+    "description": "Yogurt bowl with fruits.",
+    "ingredients": [
+      "Yogurt",
+      "granola",
+      "chopped fruit"
+    ],
+    "steps": [
+      "Place yogurt in a bowl.",
+      "Add fruit and granola on top.",
+      "It serves immediately to maintain the crunch."
+    ]
+  },
+  "receta_tostadas_francesas_006": {
+    "title": "French Toast",
+    "description": "Breakfast classic.",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Sugar",
+      "Cinnamon",
+      "Bread"
+    ],
+    "steps": [
+      "Mix eggs, milk, sugar and cinnamon.",
+      "Soak the bread 5 seconds per side.",
+      "Cook in a pan until golden."
+    ]
+  },
+  "receta_tostadas_palta_007": {
+    "title": "Toasts with avocado",
+    "description": "Easy toasts with avocado.",
+    "ingredients": [
+      "Bread",
+      "Avocado",
+      "Salt",
+      "Pepper",
+      "Lemon"
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Crush the avocado and season.",
+      "Spread on bread."
+    ]
+  },
+  "receta_muffins_avena_platano_008": {
+    "title": "Oatmeal and Banana Muffins",
+    "description": "Muffins without flour.",
+    "ingredients": [
+      "Banana",
+      "Egg",
+      "Oatmeal",
+      "baking powder",
+      "Honey"
+    ],
+    "steps": [
+      "Crush the banana and mix with egg.",
+      "Add oats and baking powder.",
+      "Pour into molds and bake for 15 minutes at 180C."
+    ]
+  },
+  "receta_quesadillas_queso_009": {
+    "title": "Cheese Quesadillas",
+    "description": "Simple pan-fried quesadilla.",
+    "ingredients": [
+      "Tortilla",
+      "Grated cheese"
+    ],
+    "steps": [
+      "Fill the tortilla with cheese.",
+      "Cook in a pan until melted and golden."
+    ]
+  },
+  "receta_huevos_revueltos_cremosos_010": {
+    "title": "Creamy Scrambled Eggs",
+    "description": "Soft and creamy eggs.",
+    "ingredients": [
+      "Eggs",
+      "Butter",
+      "Salt",
+      "Cream or milk"
+    ],
+    "steps": [
+      "Beat the eggs without excessive foam.",
+      "Cook over low heat, stirring gently.",
+      "Turn off before they dry; they finish curdling on their own."
+    ]
+  },
+  "receta_pudding_chia_012": {
+    "title": "Classic Chia Pudding",
+    "description": "Basic chia pudding.",
+    "ingredients": [
+      "chia",
+      "Milk",
+      "Honey"
+    ],
+    "steps": [
+      "Mix chia and milk.",
+      "Stir 3 times in the first 10 minutes.",
+      "Refrigerate for at least 2 hours."
+    ]
+  },
+  "receta_avena_horno_manzana_013": {
+    "title": "Baked Oatmeal with Apple",
+    "description": "Baked oatmeal with fruit.",
+    "ingredients": [
+      "Oatmeal",
+      "Milk",
+      "Apple",
+      "Egg",
+      "Cinnamon"
+    ],
+    "steps": [
+      "Mix everything in a bowl.",
+      "Pour into a bowl.",
+      "Bake 20 to 25 min at 180C."
+    ]
+  },
+  "receta_crepes_sencillos_014": {
+    "title": "Simple Crepes",
+    "description": "Classic and fine crepes.",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Milk",
+      "melted butter"
+    ],
+    "steps": [
+      "Mix flour, eggs and milk.",
+      "Add the butter.",
+      "Cook thin layers in a non-stick pan."
+    ]
+  },
+  "receta_sandwich_jamon_queso_015": {
+    "title": "Grilled Ham and Cheese Sandwich",
+    "description": "Golden and crispy sandwich.",
+    "ingredients": [
+      "Bread",
+      "Ham",
+      "Cheese",
+      "Butter"
+    ],
+    "steps": [
+      "Assemble the sandwich and spread butter on the outside.",
+      "Brown it in a frying pan over medium heat."
+    ]
+  },
+  "receta_yogur_avena_remojada_017": {
+    "title": "Yogurt with Soaked Oats",
+    "description": "Soaked oats with yogurt.",
+    "ingredients": [
+      "Oatmeal",
+      "Yogurt",
+      "Honey"
+    ],
+    "steps": [
+      "Mix oats and yogurt the night before.",
+      "Add honey when serving."
+    ]
+  },
+  "receta_wrap_huevo_018": {
+    "title": "Egg Wrap",
+    "description": "Complete breakfast wrap.",
+    "ingredients": [
+      "Tortilla",
+      "Scrambled eggs",
+      "Cheese",
+      "chopped tomato"
+    ],
+    "steps": [
+      "Cook the eggs.",
+      "Place everything on the tortilla.",
+      "Roll up and serve."
+    ]
+  },
+  "receta_pan_ricotta_miel_019": {
+    "title": "Bread with Ricotta and Honey",
+    "description": "Toasted bread with ricotta.",
+    "ingredients": [
+      "Bread",
+      "Ricotta",
+      "Honey"
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Spread ricotta and add honey on top."
+    ]
+  },
+  "receta_shakshuka_tradicional_021": {
+    "title": "Complete Traditional Shakshuka",
+    "description": "Shakshuka complete.",
+    "ingredients": [
+      "Onion",
+      "Red pepper",
+      "Garlic",
+      "Ketchup",
+      "Cumin",
+      "sweet paprika",
+      "Salt",
+      "Pepper",
+      "Eggs",
+      "Parsley"
+    ],
+    "steps": [
+      "Sauté onion, garlic and pepper for 5 minutes.",
+      "Add sauce and spices; cook 8 to 10 minutes.",
+      "Make holes and add the eggs.",
+      "Cook covered until set.",
+      "Decorate with parsley."
+    ]
+  },
+  "receta_croque_madame_022": {
+    "title": "Homemade Croque Madame",
+    "description": "Sandwich with white sauce and egg.",
+    "ingredients": [
+      "Bread",
+      "Ham",
+      "Cheese",
+      "Butter",
+      "Flour",
+      "Milk",
+      "Egg",
+      "Salt",
+      "Pepper",
+      "Nutmeg"
+    ],
+    "steps": [
+      "Make white sauce with butter, flour and milk.",
+      "Assemble the sandwich with ham and cheese.",
+      "Cover with white sauce and gratin for 10 min at 200C.",
+      "Fry the egg and place it on top."
+    ]
+  },
+  "receta_huevos_benedictinos_023": {
+    "title": "Simple Eggs Benedict",
+    "description": "Simple Benedictine version.",
+    "ingredients": [
+      "Eggs",
+      "Muffin bread",
+      "Ham",
+      "Butter",
+      "Bud",
+      "Lemon",
+      "Hot water",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Toast the bread and place the ham.",
+      "Poach the eggs for 3 minutes.",
+      "Make the quick Dutch oven in a bain-marie.",
+      "Assemble everything."
+    ]
+  },
+  "receta_avena_horno_frutosrojos_024": {
+    "title": "Baked Oatmeal with Red Fruits",
+    "description": "Fruity baked oats.",
+    "ingredients": [
+      "Oatmeal",
+      "Milk",
+      "Egg",
+      "red fruits",
+      "Honey",
+      "Vanilla"
+    ],
+    "steps": [
+      "Mix oats, milk, egg, honey and vanilla.",
+      "Add red fruits.",
+      "Bake 25 min at 180C."
+    ]
+  },
+  "receta_frittata_espinaca_queso_025": {
+    "title": "Spinach and Cheese Frittata",
+    "description": "Baked frittata.",
+    "ingredients": [
+      "Eggs",
+      "Spinach",
+      "Grated cheese",
+      "chopped onion",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Sauté the onion and spinach.",
+      "Mix the eggs with the cheese.",
+      "Cook for 3 minutes in a pan and 10 minutes in the oven."
+    ]
+  },
+  "receta_burrito_desayuno_027": {
+    "title": "Full Breakfast Burrito",
+    "description": "Hearty breakfast burrito.",
+    "ingredients": [
+      "Tortilla",
+      "Scrambled eggs",
+      "Cheese",
+      "Potatoes",
+      "Dip"
+    ],
+    "steps": [
+      "Cook the eggs and potatoes.",
+      "Fill and roll.",
+      "Brown it in a pan."
+    ]
+  },
+  "receta_bowl_yogur_chia_028": {
+    "title": "Yogurt Bowl with Chia Granola and Honey",
+    "description": "Fresh breakfast bowl.",
+    "ingredients": [
+      "Yogurt",
+      "chia",
+      "granola",
+      "Honey",
+      "Fruit"
+    ],
+    "steps": [
+      "Yogurt in bowl, add chia.",
+      "Wait 5 min.",
+      "Add fruit and granola."
+    ]
+  },
+  "receta_panqueques_americanos_029": {
+    "title": "American Fluffy Pancakes",
+    "description": "American style pancakes.",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "baking powder",
+      "Egg",
+      "Milk",
+      "Butter"
+    ],
+    "steps": [
+      "Mix dry ingredients.",
+      "Add egg and milk.",
+      "Cook portions until golden."
+    ]
+  },
+  "receta_tostadas_huevo_mollet_030": {
+    "title": "Toasts with Mollet Egg and Avocado",
+    "description": "Toasts with avocado and egg.",
+    "ingredients": [
+      "Bread",
+      "Avocado",
+      "Eggs",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Cook eggs 6 minutes.",
+      "Mash the avocado.",
+      "Spread on bread.",
+      "Place the egg on top."
+    ]
+  },
+  "receta_avena_tradicional_cremosa_031": {
+    "title": "Creamy Traditional Oatmeal",
+    "description": "Creamy classic oats.",
+    "ingredients": [
+      "Oatmeal",
+      "Milk or water",
+      "Honey",
+      "Cinnamon"
+    ],
+    "steps": [
+      "Heat the milk in a saucepan over medium heat.",
+      "Add the oats and stir constantly.",
+      "Cook until it takes on a creamy texture.",
+      "Sweeten with honey and add cinnamon before serving."
+    ]
+  },
+  "receta_avena_manzana_canela_032": {
+    "title": "Oatmeal with Apple and Cinnamon",
+    "description": "Oatmeal with fruit and cinnamon.",
+    "ingredients": [
+      "Oatmeal",
+      "Milk",
+      "chopped apple",
+      "Cinnamon",
+      "sugar or honey"
+    ],
+    "steps": [
+      "Heat the milk and add the oats.",
+      "Add the chopped apple.",
+      "Add cinnamon and sugar or honey.",
+      "Cook until the apple is soft."
+    ]
+  },
+  "receta_avena_platano_nueces_033": {
+    "title": "Oatmeal with Banana and Walnuts",
+    "description": "Oatmeal with fruit and nut topping.",
+    "ingredients": [
+      "Oatmeal",
+      "Water or milk",
+      "Sliced ​​banana",
+      "chopped walnuts",
+      "Honey"
+    ],
+    "steps": [
+      "Cook the oats in water or milk until thick.",
+      "Serve and add the banana and walnuts on top.",
+      "Sweeten with honey if you wish."
+    ]
+  },
+  "receta_avena_cacao_034": {
+    "title": "Oatmeal with Cocoa",
+    "description": "Chocolate oatmeal.",
+    "ingredients": [
+      "Oatmeal",
+      "Milk",
+      "Cocoa",
+      "Honey",
+      "Salt",
+      "Vanilla"
+    ],
+    "steps": [
+      "Cook the oats with the milk over medium heat.",
+      "When it starts to thicken, add the cocoa and mix very well.",
+      "Sweeten with honey or sugar according to your taste.",
+      "Add a pinch of salt and mix.",
+      "Cook 1 more minute to integrate flavors."
+    ]
+  },
+  "receta_pancakes_clasicos_035": {
+    "title": "Classic Pancakes",
+    "description": "Always basic pancakes.",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "baking powder",
+      "Butter"
+    ],
+    "steps": [
+      "Mix flour, sugar and baking powder.",
+      "Add egg and milk; mix without overbeating.",
+      "Heat frying pan with butter.",
+      "Cook portions until golden brown on both sides."
+    ]
+  },
+  "receta_pancakes_avena_036": {
+    "title": "Oatmeal Pancakes",
+    "description": "Pancakes made with oats.",
+    "ingredients": [
+      "ground oats",
+      "Milk",
+      "Egg",
+      "Honey"
+    ],
+    "steps": [
+      "Mix all the ingredients.",
+      "Let it rest for 5 minutes.",
+      "Cook small portions in a frying pan over medium heat.",
+      "Flip when bubbles appear."
+    ]
+  },
+  "receta_panqueques_platano_037": {
+    "title": "Plantain Pancakes",
+    "description": "Banana version that works.",
+    "ingredients": [
+      "Large ripe banana",
+      "Egg",
+      "ground oats",
+      "baking powder",
+      "Cinnamon"
+    ],
+    "steps": [
+      "Blend the banana until it is creamy.",
+      "Add the egg and mix.",
+      "Add oats and baking powder.",
+      "Rest 5 minutes to thicken.",
+      "Cook small portions 2 to 3 minutes per side."
+    ]
+  },
+  "receta_pollo_arroz_038": {
+    "title": "Stir-Fried Chicken with Rice",
+    "description": "Simple and tasty lunch.",
+    "ingredients": [
+      "Diced chicken breast",
+      "cooked rice",
+      "chopped onion",
+      "chopped garlic",
+      "Oil",
+      "Salt",
+      "Pepper",
+      "Oregano"
+    ],
+    "steps": [
+      "Heat a large skillet with oil over medium heat.",
+      "Add onion and sauté for 2 to 3 minutes.",
+      "Add garlic and cook 30 seconds.",
+      "Add the cubed chicken and cook for 6 to 8 minutes until browned and cooked.",
+      "Season with salt, pepper and oregano to taste.",
+      "Add the cooked rice and mix well.",
+      "Sauté for 2 to 3 minutes to integrate flavors.",
+      "Serve hot."
+    ]
+  },
+  "receta_tallarines_bolona_039": {
+    "title": "Noodles with Easy Bolognese Sauce",
+    "description": "Pasta with homemade sauce and meat.",
+    "ingredients": [
+      "Paste",
+      "Ground meat",
+      "Ketchup",
+      "chopped onion",
+      "Salt",
+      "Pepper",
+      "Oregano",
+      "Oil"
+    ],
+    "steps": [
+      "Cook the pasta in salted water following the time on the package. Strain and reserve.",
+      "In a frying pan, heat the oil over medium heat.",
+      "Add the chopped onion and cook for 3 minutes.",
+      "Add the ground beef and cook, breaking it up with a spoon, until golden brown (4 to 6 minutes).",
+      "Pour the tomato sauce and mix well.",
+      "Season with salt, pepper and oregano.",
+      "Cook everything together for 5 minutes to integrate flavors.",
+      "Mix the sauce with the cooked pasta and serve hot."
+    ]
+  },
+  "receta_lentejas_caseras_040": {
+    "title": "Simple Homemade Lentils",
+    "description": "Easy pot lentils.",
+    "ingredients": [
+      "Lentils",
+      "Onion",
+      "Chopped carrot",
+      "Garlic",
+      "Water",
+      "Salt",
+      "Cumin",
+      "Paprika"
+    ],
+    "steps": [
+      "Wash the lentils under cold water.",
+      "In a pot, heat a teaspoon of oil.",
+      "Sauté the chopped onion, garlic and carrot for 3 minutes.",
+      "Add the lentils and mix with the vegetables.",
+      "Add the 3 cups of water.",
+      "Cook over medium heat for 25 to 30 minutes, stirring occasionally.",
+      "When they are soft, add salt, cumin and paprika to taste.",
+      "Cook for 3 more minutes to integrate flavors.",
+      "Serve hot."
+    ]
+  },
+  "receta_pure_carne_041": {
+    "title": "Mashed Potatoes with Ground Meat",
+    "description": "Classic and delicious lunch.",
+    "ingredients": [
+      "Potatoes",
+      "Milk",
+      "Butter",
+      "Ground meat",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Peel the potatoes and cut them into medium pieces.",
+      "Put them in a pot with cold water and a pinch of salt.",
+      "Cook for 15 to 20 minutes until very soft.",
+      "Drain the water and mash the potatoes with a fork or masher.",
+      "Add the milk and butter, mix until you obtain a smooth puree.",
+      "In a skillet, cook the ground beef for 6 to 8 minutes, breaking it up with a spoon.",
+      "Season with salt and pepper.",
+      "Serve the puree on a plate and place the meat on top."
+    ]
+  },
+  "receta_pollo_plancha_ensalada_042": {
+    "title": "Grilled Chicken with Salad",
+    "description": "Light and simple dish.",
+    "ingredients": [
+      "Chicken breast",
+      "Salt",
+      "Pepper",
+      "lemon juice",
+      "Lettuce",
+      "Tomato",
+      "Cucumber"
+    ],
+    "steps": [
+      "Cut the breast so that it is evenly thick.",
+      "Season with salt, pepper and a few drops of lemon.",
+      "Heat a frying pan over medium heat and cook the chicken for 4 to 5 minutes per side, until golden brown.",
+      "Cut the chicken into strips or serve whole.",
+      "Wash and cut the lettuce, tomato and cucumber.",
+      "Mix the vegetables and serve them with the chicken.",
+      "You can add a splash of extra lemon if you want."
+    ]
+  },
+  "receta_arroz_atun_043": {
+    "title": "Rice with Tuna",
+    "description": "Quick and practical recipe.",
+    "ingredients": [
+      "cooked rice",
+      "Tuna",
+      "Mayonnaise",
+      "Corn",
+      "Salt",
+      "lemon juice"
+    ],
+    "steps": [
+      "Place the cooked rice in a large bowl.",
+      "Open the can of tuna, drain it and add it to the rice.",
+      "Add the corn.",
+      "Add a teaspoon of lemon and mix.",
+      "If you want more creaminess, add the mayonnaise.",
+      "Mix everything gently until integrated.",
+      "You can serve it cold or heat it for 1 to 2 minutes in the microwave."
+    ]
+  },
+  "receta_sopa_verduras_044": {
+    "title": "Homemade Vegetable Soup",
+    "description": "Warm vegetable soup.",
+    "ingredients": [
+      "Carrot",
+      "Dad",
+      "Onion",
+      "Pumpkin",
+      "Water",
+      "Salt",
+      "Oregano"
+    ],
+    "steps": [
+      "Peel and cut all the vegetables into medium cubes.",
+      "Place them in a pot with the liter of water.",
+      "Bring to a boil and cook for 20 to 25 minutes, until all the vegetables are soft.",
+      "Add salt and oregano to taste.",
+      "Stir and cook 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  "receta_carbonada_045": {
+    "title": "Quick Carbonade",
+    "description": "Easy traditional stew.",
+    "ingredients": [
+      "Minced meat",
+      "Dad",
+      "Carrot",
+      "Pumpkin",
+      "Water",
+      "Salt",
+      "Oregano"
+    ],
+    "steps": [
+      "Peel and cut all the vegetables into small cubes.",
+      "In a pot, sauté the minced meat for 3 to 4 minutes.",
+      "Add the vegetables and mix well.",
+      "Add the cup of water.",
+      "Cook for 20 minutes over medium heat, until the vegetables are soft.",
+      "Season with salt and oregano.",
+      "Cook 2 extra minutes to integrate flavors."
+    ]
+  },
+  "receta_tortilla_papas_046": {
+    "title": "Quick Potato Tortilla",
+    "description": "Quick pan tortilla.",
+    "ingredients": [
+      "Cooked potatoes in cubes",
+      "Eggs",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "If the potatoes are not cooked, boil them for 12 to 15 minutes and cut them into cubes.",
+      "In a bowl, lightly beat the eggs with salt and pepper.",
+      "Add the potatoes and mix gently.",
+      "Heat a non-stick frying pan with a teaspoon of oil.",
+      "Pour the mixture and cook for 3 to 4 minutes over medium heat.",
+      "Turn the tortilla using a plate and cook 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  "receta_arroz_frito_047": {
+    "title": "Fried Rice with Vegetables",
+    "description": "Homemade style stir-fried rice.",
+    "ingredients": [
+      "cooked rice",
+      "Egg",
+      "Chopped vegetables",
+      "soy sauce"
+    ],
+    "steps": [
+      "Heat a large frying pan or wok with a teaspoon of oil.",
+      "Add the vegetables and sauté for 2 to 3 minutes.",
+      "Add the cooked rice and mix well.",
+      "Make a space in the center of the pan and crack the egg there.",
+      "Stir the egg until cooked, then mix it with the rice.",
+      "Add the soy sauce and mix everything for 1 more minute.",
+      "Serve hot."
+    ]
+  },
+  "receta_pollo_curry_048": {
+    "title": "Easy Chicken Curry",
+    "description": "Creamy chicken curry.",
+    "ingredients": [
+      "Cubed breast",
+      "chopped onion",
+      "Curry",
+      "Cream or coconut milk",
+      "Salt"
+    ],
+    "steps": [
+      "Heat a frying pan with a splash of oil.",
+      "Sauté the onion for 2 minutes.",
+      "Add the chicken and cook until browned, 5 to 6 minutes.",
+      "Add the curry and mix to coat the chicken.",
+      "Pour the cream or coconut milk.",
+      "Cook for 5 minutes over medium-low heat until thickened.",
+      "Add salt to taste and serve."
+    ]
+  },
+  "receta_pasta_pesto_049": {
+    "title": "Homemade Pesto Pasta",
+    "description": "Pasta with quick pesto.",
+    "ingredients": [
+      "Paste",
+      "Basil",
+      "Garlic",
+      "Oil",
+      "Salt"
+    ],
+    "steps": [
+      "Cook the pasta in salted water according to the instructions on the package.",
+      "In a blender or processor, place the basil, garlic, oil and a pinch of salt.",
+      "Process until you obtain a smooth green paste (pesto).",
+      "Strain the pasta and mix it with the pesto immediately to absorb the flavor.",
+      "Serve hot."
+    ]
+  },
+  "receta_garbanzos_guiso_050": {
+    "title": "Chickpea Stew",
+    "description": "Simple legume stew.",
+    "ingredients": [
+      "cooked chickpeas",
+      "chopped onion",
+      "chopped tomato",
+      "Salt",
+      "Paprika"
+    ],
+    "steps": [
+      "Heat a frying pan or small pot with a teaspoon of oil.",
+      "Sauté the onion for 2 minutes.",
+      "Add the tomato and cook 2 to 3 minutes more.",
+      "Add the chickpeas and mix.",
+      "Season with salt and paprika.",
+      "Cook for 5 to 7 minutes until the flavors integrate.",
+      "Serve hot."
+    ]
+  },
+  "receta_salpicon_pollo_051": {
+    "title": "Chicken Salpicon",
+    "description": "Fresh salad with chicken.",
+    "ingredients": [
+      "shredded chicken",
+      "chopped tomato",
+      "chopped lettuce",
+      "Corn",
+      "lemon juice",
+      "Oil",
+      "Salt"
+    ],
+    "steps": [
+      "Place the shredded chicken in a large bowl.",
+      "Add the chopped tomato, lettuce and corn.",
+      "In a glass, mix the lemon juice, oil and a pinch of salt.",
+      "Pour the dressing over the ingredients in the bowl.",
+      "Stir gently until everything is integrated.",
+      "Serve immediately to maintain freshness."
+    ]
+  },
+  "receta_papas_horno_052": {
+    "title": "Baked Potatoes with Spices",
+    "description": "Baked golden potatoes.",
+    "ingredients": [
+      "medium potatoes",
+      "Oil",
+      "Oregano",
+      "Paprika",
+      "Salt"
+    ],
+    "steps": [
+      "Preheat the oven to 200C.",
+      "Wash the potatoes well and cut them into wedges.",
+      "Place the potatoes in a bowl and add the oil, oregano, paprika and salt.",
+      "Mix to coat all the segments well with the spices.",
+      "Place the potatoes on a baking sheet, in a single layer.",
+      "Bake for 30 minutes or until golden and crisp.",
+      "Serve hot."
+    ]
+  },
+  "receta_chuletas_plancha_053": {
+    "title": "Grilled Chops with Rice",
+    "description": "Golden cutlet with rice.",
+    "ingredients": [
+      "Pork chop",
+      "Salt",
+      "Pepper",
+      "cooked rice"
+    ],
+    "steps": [
+      "Dry the chop with absorbent paper so that it browns better.",
+      "Sprinkle salt and pepper on both sides.",
+      "Heat a skillet over medium-high heat.",
+      "Place the chop in the pan and cook for 3 to 4 minutes on each side, until golden brown and cooked through the center.",
+      "Serve the chop along with the cooked rice."
+    ]
+  },
+  "receta_cazuela_simple_054": {
+    "title": "Simple Casserole",
+    "description": "Easy homemade casserole.",
+    "ingredients": [
+      "chicken prey",
+      "peeled potato",
+      "Pumpkin",
+      "Peeled carrot",
+      "Noodles",
+      "Water",
+      "Salt"
+    ],
+    "steps": [
+      "Place the chicken in a large pot and cover it with the liter of water.",
+      "Add the salt and cook for 10 minutes from when it starts to boil.",
+      "Cut the potato, pumpkin and carrot into medium pieces.",
+      "Add all the vegetables to the pot and cook for 15 more minutes.",
+      "Add the noodles and cook another 10 minutes or until soft.",
+      "Adjust the salt and serve hot."
+    ]
+  },
+  "receta_pollo_mostaza_055": {
+    "title": "Mustard Chicken",
+    "description": "Golden chicken with creamy sauce.",
+    "ingredients": [
+      "Chicken breast",
+      "Mustard",
+      "Cream or vegetable cream",
+      "Salt",
+      "Pepper",
+      "Oil"
+    ],
+    "steps": [
+      "Cut the breast into two fillets so it cooks faster.",
+      "Season both sides with salt and pepper.",
+      "Heat a frying pan with the oil over medium heat.",
+      "Place the chicken and cook 4 to 5 minutes per side until golden.",
+      "Lower the heat and add the mustard and cream directly to the pan.",
+      "Mix well and cook 2 more minutes so that the sauce thickens and covers the chicken.",
+      "Serve with rice, pasta or salad."
+    ]
+  },
+  "receta_salmon_plancha_056": {
+    "title": "Grilled Salmon with Lemon",
+    "description": "Pan-seared salmon.",
+    "ingredients": [
+      "salmon fillet",
+      "Salt",
+      "Pepper",
+      "Oil",
+      "lemon juice"
+    ],
+    "steps": [
+      "Season the salmon on both sides with salt and pepper.",
+      "Heat a frying pan over medium heat and add the oil.",
+      "Place the salmon skin side down (if it has one).",
+      "Cook for 3 to 4 minutes without moving it so that it browns well.",
+      "Turn the steak over and cook 2 to 3 minutes more.",
+      "Remove from heat and squeeze the lemon over it.",
+      "Serve immediately."
+    ]
+  },
+  "receta_pasta_tomate_057": {
+    "title": "Pasta with Homemade Tomato Sauce",
+    "description": "Pasta with simple sauce.",
+    "ingredients": [
+      "Paste",
+      "crushed tomato",
+      "chopped garlic",
+      "Oil",
+      "Salt",
+      "Oregano"
+    ],
+    "steps": [
+      "Cook the pasta according to package instructions and set aside.",
+      "In a frying pan, heat the oil over medium heat.",
+      "Add the chopped garlic and cook for 30 seconds, without letting it burn.",
+      "Add the crushed tomato, salt and oregano.",
+      "Cook the sauce for 10 minutes to thicken and take on flavor.",
+      "Mix the sauce with the cooked pasta.",
+      "Serve hot."
+    ]
+  },
+  "receta_sandwich_pollo_058": {
+    "title": "Chicken and Avocado Sandwich",
+    "description": "Quick and filling sandwich.",
+    "ingredients": [
+      "Bread",
+      "shredded chicken",
+      "Avocado",
+      "Salt",
+      "Lemon"
+    ],
+    "steps": [
+      "Place the shredded chicken in a small bowl.",
+      "Mash the avocado with a fork and add a pinch of salt and a few drops of lemon.",
+      "Open the bread in half.",
+      "Spread the avocado on one of the halves.",
+      "Place the chicken on top and cover the sandwich.",
+      "Serve immediately."
+    ]
+  },
+  "receta_sopa_tomate_059": {
+    "title": "Quick Tomato Soup",
+    "description": "Express homemade soup.",
+    "ingredients": [
+      "crushed tomato",
+      "Water",
+      "Oil",
+      "chopped garlic",
+      "Salt",
+      "Oregano"
+    ],
+    "steps": [
+      "In a small pot, heat the oil.",
+      "Add the garlic and cook for just 20 seconds.",
+      "Add the crushed tomato and water.",
+      "Stir and add salt and oregano.",
+      "Cook for 8 to 10 minutes over medium heat.",
+      "Serve hot."
+    ]
+  },
+  "receta_omelette_jamon_060": {
+    "title": "Ham and Cheese Omelette",
+    "description": "Classic and fast omelet.",
+    "ingredients": [
+      "Eggs",
+      "Chopped ham",
+      "Grated cheese",
+      "Salt",
+      "Pepper",
+      "Oil"
+    ],
+    "steps": [
+      "In a bowl, beat the eggs with a pinch of salt and pepper.",
+      "Heat the oil in a frying pan over medium heat.",
+      "Pour in the eggs and let them set a little.",
+      "Add the ham and cheese on top.",
+      "Fold the omelet carefully and cook 1 more minute.",
+      "Serve hot."
+    ]
+  },
+  "receta_tostadas_huevo_061": {
+    "title": "Toast with Scrambled Egg",
+    "description": "Toasts with creamy egg.",
+    "ingredients": [
+      "Bread",
+      "Eggs",
+      "Butter",
+      "Salt"
+    ],
+    "steps": [
+      "Toast the bread.",
+      "In a bowl, beat the eggs with a pinch of salt.",
+      "Heat the butter in a frying pan and add the eggs.",
+      "Stir slowly over low heat until creamy.",
+      "Place the eggs on the toast and serve."
+    ]
+  },
+  "receta_sandwich_atun_065": {
+    "title": "Tuna Sandwich",
+    "description": "Simple tuna sandwich.",
+    "ingredients": [
+      "Bread",
+      "drained tuna",
+      "Mayonnaise",
+      "Lettuce"
+    ],
+    "steps": [
+      "Mix the tuna with the mayonnaise.",
+      "Place the lettuce on a slice of bread.",
+      "Add the tuna mixture on top.",
+      "Close with the other slice."
+    ]
+  },
+  "receta_sopa_pollo_066": {
+    "title": "Quick Chicken Soup",
+    "description": "Quick soup with noodles.",
+    "ingredients": [
+      "Water",
+      "shredded chicken",
+      "Noodles",
+      "Salt",
+      "Oregano"
+    ],
+    "steps": [
+      "Heat the water in a small pot.",
+      "Add the chicken and noodles.",
+      "Add salt and oregano.",
+      "Cook 8 to 10 minutes until the noodles are soft.",
+      "Serve hot."
+    ]
+  },
+  "receta_pan_ricotta_tomate_067": {
+    "title": "Bread with Ricotta and Tomato",
+    "description": "Toasted bread with ricotta.",
+    "ingredients": [
+      "Bread",
+      "Ricotta",
+      "Sliced ​​tomato",
+      "Salt",
+      "Oregano"
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Spread the ricotta on each slice.",
+      "Place the tomato slices on top.",
+      "Season with salt and oregano."
+    ]
+  },
+  "receta_huevo_duro_ensalada_068": {
+    "title": "Hard Boiled Eggs with Salad",
+    "description": "Salad with hard-boiled egg.",
+    "ingredients": [
+      "Eggs",
+      "Lettuce",
+      "Tomato",
+      "Oil",
+      "Salt",
+      "Lemon"
+    ],
+    "steps": [
+      "Put the eggs in a pot and cover them with water.",
+      "Cook for 10 minutes from boiling.",
+      "Peel and cut the eggs into halves.",
+      "Prepare a salad with the lettuce and tomato.",
+      "Dress with oil, lemon and salt.",
+      "Add the eggs on top."
+    ]
+  },
+  "receta_crema_zapallo_070": {
+    "title": "Easy Pumpkin Cream",
+    "description": "Soft pumpkin cream.",
+    "ingredients": [
+      "Zucchini in cubes",
+      "Milk",
+      "Water",
+      "Salt"
+    ],
+    "steps": [
+      "Place the squash in a pot with the water.",
+      "Cook for 12 to 15 minutes until soft.",
+      "Blend with a mixer or fork.",
+      "Add the milk and mix.",
+      "Add salt and heat for 2 more minutes."
+    ]
+  },
+  "receta_sopa_huevo_073": {
+    "title": "Egg Soup",
+    "description": "Light egg soup.",
+    "ingredients": [
+      "Water",
+      "Egg",
+      "Salt",
+      "Parsley"
+    ],
+    "steps": [
+      "Boil the water with the salt.",
+      "Beat the egg in a glass.",
+      "Pour the egg slowly into the boiling water while stirring.",
+      "Cook 1 more minute.",
+      "Add parsley and serve."
+    ]
+  },
+  "receta_pan_mantequilla_082": {
+    "title": "Bread with Butter and Ham",
+    "description": "Toasted bread with ham.",
+    "ingredients": [
+      "Bread",
+      "Butter",
+      "Ham"
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Spread butter while it is still hot.",
+      "Place the ham on top and serve."
+    ]
+  },
+  "receta_charquican_casero_088": {
+    "title": "Easy Charquican for 1",
+    "description": "Traditional homemade charquican.",
+    "ingredients": [
+      "big potato",
+      "Zucchini in cubes",
+      "Corn",
+      "Chopped carrot",
+      "chopped onion",
+      "Ground meat",
+      "Water",
+      "Salt",
+      "Cumin",
+      "Paprika"
+    ],
+    "steps": [
+      "In a pot, sauté the onion for 2 minutes with a teaspoon of oil.",
+      "Add the ground beef and cook for 5 minutes, stirring.",
+      "Add potato, pumpkin, carrot and corn. Mix.",
+      "Add the water, salt, cumin and paprika.",
+      "Cook over medium heat for 20 min.",
+      "When everything is soft, partially flatten it with a spoon.",
+      "Serve hot."
+    ]
+  },
+  "receta_tomatican_089": {
+    "title": "Homemade Tomato",
+    "description": "Tomato fast and tasty.",
+    "ingredients": [
+      "Ground meat",
+      "chopped tomato",
+      "Onion in strips",
+      "Corn",
+      "Salt",
+      "Oregano",
+      "Oil"
+    ],
+    "steps": [
+      "In a frying pan, heat oil and sauté the onion for 3 min.",
+      "Add the meat and cook until browned.",
+      "Add the tomato and corn.",
+      "Season with salt and oregano.",
+      "Cook covered 10 min."
+    ]
+  },
+  "receta_papas_coctel_090": {
+    "title": "Merken Golden Potatoes",
+    "description": "Baked potatoes with merken.",
+    "ingredients": [
+      "Potatoes in cubes",
+      "Oil",
+      "Merken",
+      "Salt"
+    ],
+    "steps": [
+      "Preheat the oven to 200C.",
+      "Mix the potatoes with oil, merken and salt.",
+      "Put them on separate trays.",
+      "Bake for 30 minutes or until golden."
+    ]
+  },
+  "receta_pescado_mantequilla_091": {
+    "title": "Fish Fillet in Butter",
+    "description": "Dorado fish with parsley.",
+    "ingredients": [
+      "Hake or pippin fillet",
+      "Butter",
+      "chopped parsley",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Season the fish with salt and pepper.",
+      "In a hot pan, melt the butter.",
+      "Cook the fish 3 minutes per side.",
+      "Add parsley at the end and serve."
+    ]
+  },
+  "receta_reineta_tomate_093": {
+    "title": "Baked Reineta with Tomato",
+    "description": "Baked fish with vegetables.",
+    "ingredients": [
+      "pippin fillet",
+      "Sliced ​​tomato",
+      "onion in pen",
+      "Oil",
+      "Salt",
+      "Oregano"
+    ],
+    "steps": [
+      "Preheat oven to 200C.",
+      "Place the pippin on a tray.",
+      "Add tomato, onion, oil, salt and oregano.",
+      "Bake 15 min."
+    ]
+  },
+  "receta_bowl_quinoa_098": {
+    "title": "Quinoa Bowl with Vegetables and Chicken",
+    "description": "Complete healthy dinner.",
+    "ingredients": [
+      "cooked quinoa",
+      "Chicken in strips",
+      "cooked broccoli",
+      "Grated carrot",
+      "Olive oil",
+      "Lemon",
+      "Salt"
+    ],
+    "steps": [
+      "Cook the chicken for 5 minutes in a frying pan.",
+      "Assemble the bowl: quinoa, broccoli, carrot and chicken.",
+      "Dress with oil, lemon and salt."
+    ]
+  },
+  "receta_bowl_garbanzos_101": {
+    "title": "Chickpea and Avocado Bowl",
+    "description": "Quick vegetable bowl.",
+    "ingredients": [
+      "cooked chickpeas",
+      "Avocado",
+      "chopped tomato",
+      "Lemon",
+      "Salt",
+      "Oil"
+    ],
+    "steps": [
+      "Place chickpeas in a bowl.",
+      "Add diced tomato and avocado.",
+      "Alina with lemon, oil and salt."
+    ]
+  },
+  "receta_salmon_horno_102": {
+    "title": "Baked Salmon with Spinach",
+    "description": "Baked salmon with spinach.",
+    "ingredients": [
+      "salmon fillet",
+      "Spinach",
+      "Oil",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 200C.",
+      "Put the salmon on a tray and season with salt and pepper.",
+      "On the side add the spinach with oil.",
+      "Bake 12 to 15 min."
+    ]
+  },
+  "receta_zapallo_spaghetti_103": {
+    "title": "Italian Zucchini Noodles with Chicken",
+    "description": "Light pasta-type dinner.",
+    "ingredients": [
+      "Italian squash",
+      "Chicken in cubes",
+      "Ketchup",
+      "Salt"
+    ],
+    "steps": [
+      "Sauté the chicken 5 min.",
+      "Add the Italian squash and cook 2 min.",
+      "Add the tomato sauce.",
+      "Cook for 3 minutes and serve."
+    ]
+  },
+  "receta_tofu_salteado_105": {
+    "title": "Stir-fried Tofu with Vegetables",
+    "description": "Vegetarian stir fry dinner.",
+    "ingredients": [
+      "cubed tofu",
+      "Chopped carrot",
+      "Chopped pepper",
+      "soy sauce"
+    ],
+    "steps": [
+      "Sauté tofu 3 min.",
+      "Add vegetables and cook 5 min.",
+      "Add a splash of soy sauce.",
+      "Mix and serve."
+    ]
+  },
+  "receta_shirataki_106": {
+    "title": "Stir-Fried Shirataki Noodles",
+    "description": "Low carb noodles.",
+    "ingredients": [
+      "Shirataki noodles",
+      "Chopped mushrooms",
+      "Spinach",
+      "soy sauce"
+    ],
+    "steps": [
+      "Wash and drain the shirataki.",
+      "Sauté mushrooms 2 min.",
+      "Add spinach and noodles.",
+      "Add soy sauce and mix 2 min."
+    ]
+  },
+  "receta_budin_verduras_107": {
+    "title": "Individual Vegetable Pudding",
+    "description": "Healthy baked pudding.",
+    "ingredients": [
+      "Grated Italian squash",
+      "Grated carrot",
+      "Egg",
+      "Grated cheese",
+      "Salt"
+    ],
+    "steps": [
+      "Mix everything in a bowl.",
+      "Pour into small mold.",
+      "Bake 15 to 18 min at 180C."
+    ]
+  },
+  "receta_chaparritas_caseras_108": {
+    "title": "Baked Shorties",
+    "description": "Eleven prepared in the oven.",
+    "ingredients": [
+      "Puff pastry",
+      "Viennese",
+      "Grated cheese",
+      "Egg"
+    ],
+    "steps": [
+      "Cut the dough into rectangles.",
+      "Place a Viennese and cheese.",
+      "Roll up and close well.",
+      "Brush with egg.",
+      "Bake 15 min at 200C."
+    ]
+  },
+  "receta_pizza_omelette_113": {
+    "title": "Omelette Pizza",
+    "description": "Pizza style omelet.",
+    "ingredients": [
+      "Eggs",
+      "Ketchup",
+      "Grated cheese",
+      "Oregano"
+    ],
+    "steps": [
+      "Beat the eggs and cook for 2 minutes over low heat.",
+      "Add sauce, cheese and oregano.",
+      "Cover and cook 2 more minutes."
+    ]
+  },
+  "receta_sopa_crema_papa_118": {
+    "title": "Potato and Leek Cream",
+    "description": "Homemade potato cream.",
+    "ingredients": [
+      "Potato in cubes",
+      "chopped leek",
+      "Water",
+      "Milk",
+      "Butter",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "In a saucepan, melt the butter over medium heat.",
+      "Add the leek and cook 3 minutes.",
+      "Add the potato and mix.",
+      "Add the water and cook 12 to 15 minutes.",
+      "Grind with a mini blender or step very well.",
+      "Add the milk, salt and pepper.",
+      "Heat for 2 to 3 more minutes and serve."
+    ]
+  },
+  "receta_pescado_limon_horno_119": {
+    "title": "Baked Fish with Lemon and Garlic",
+    "description": "Easy baked fish.",
+    "ingredients": [
+      "Hake or pippin fillet",
+      "Oil",
+      "chopped garlic",
+      "sliced ​​lemon",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 200C.",
+      "Place the fish on a tray.",
+      "Rub the oil, garlic, salt and pepper over it.",
+      "Put the lemon slices on the fillet.",
+      "Bake for 12 to 15 minutes until firm and opaque."
+    ]
+  },
+  "receta_guiso_zapallo_carne_120": {
+    "title": "Pumpkin Stew with Meat",
+    "description": "Homemade stew with meat.",
+    "ingredients": [
+      "Zucchini in cubes",
+      "chopped onion",
+      "Ground meat",
+      "Water",
+      "Salt",
+      "Cumin",
+      "Oil"
+    ],
+    "steps": [
+      "Sauté the onion in the oil for 2 to 3 minutes.",
+      "Add the meat and cook until browned.",
+      "Add the pumpkin and mix.",
+      "Add the water, salt and cumin.",
+      "Cook 15 to 18 minutes.",
+      "Mash lightly to thicken."
+    ]
+  },
+  "receta_revoltillo_camaron_121": {
+    "title": "Shrimp Scramble with Vegetables",
+    "description": "Quick scramble with shrimp.",
+    "ingredients": [
+      "peeled shrimp",
+      "Eggs",
+      "chopped onion",
+      "Chopped pepper",
+      "Salt",
+      "Pepper",
+      "Oil"
+    ],
+    "steps": [
+      "Heat the oil in a frying pan.",
+      "Sauté the onion and pepper for 3 minutes.",
+      "Add the shrimp and cook 2 minutes.",
+      "Beat the eggs with salt and pepper.",
+      "Pour over the pan and cook, stirring until set."
+    ]
+  },
+  "receta_tortilla_champinones_122": {
+    "title": "Mushroom Omelet",
+    "description": "Homemade mushroom omelet.",
+    "ingredients": [
+      "Laminated mushrooms",
+      "Eggs",
+      "chopped onion",
+      "Salt",
+      "Pepper",
+      "Oil"
+    ],
+    "steps": [
+      "Sauté the mushrooms and onion for 3 to 4 minutes.",
+      "Beat the eggs with salt and pepper.",
+      "Add the eggs to the pan.",
+      "Cook for 3 minutes on one side, turn and cook for 2 more minutes."
+    ]
+  },
+  "receta_omelette_espinaca_124": {
+    "title": "Spinach and Cheese Omelette",
+    "description": "Green and soft omelet.",
+    "ingredients": [
+      "Eggs",
+      "chopped spinach",
+      "Grated cheese",
+      "Salt",
+      "Pepper",
+      "Oil"
+    ],
+    "steps": [
+      "Beat the eggs with salt and pepper.",
+      "Sauté the spinach for 1 minute.",
+      "Add the eggs to the pan.",
+      "Add cheese, fold and cook 1 to 2 minutes more."
+    ]
+  },
+  "receta_sopa_cebolla_125": {
+    "title": "Homemade Onion Soup",
+    "description": "Homemade onion soup.",
+    "ingredients": [
+      "Onion in strips",
+      "Butter",
+      "Water",
+      "homemade broth",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Melt the butter in a pot.",
+      "Cook the onion for 8 to 10 minutes until golden.",
+      "Add the water and broth.",
+      "Cook 10 minutes.",
+      "Season and serve hot."
+    ]
+  },
+  "receta_pan_plano_casero_126": {
+    "title": "Homemade Flat Bread",
+    "description": "Quick bread to accompany.",
+    "ingredients": [
+      "Flour",
+      "warm water",
+      "Oil",
+      "Salt"
+    ],
+    "steps": [
+      "Mix flour and salt.",
+      "Add water and oil; knead 2 minutes.",
+      "Divide into 2 balls and flatten with your hands.",
+      "Cook in a pan for 2 to 3 minutes per side."
+    ]
+  },
+  "receta_salmon_cocotte_127": {
+    "title": "Salmon Cocotte",
+    "description": "Steamed salmon in a pan.",
+    "ingredients": [
+      "salmon fillet",
+      "Onion in strips",
+      "sliced ​​lemon",
+      "Water",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Place the salmon in a small pan.",
+      "Add onion, lemon and water around.",
+      "Cover the pan.",
+      "Cook over low heat for 10 to 12 minutes.",
+      "Serve hot."
+    ]
+  },
+  "receta_chips_zanahoria_128": {
+    "title": "Baked Carrot Chips",
+    "description": "Crunchy and spicy snack.",
+    "ingredients": [
+      "large carrots",
+      "Oil",
+      "Salt",
+      "Paprika",
+      "Oregano",
+      "finely grated cheese"
+    ],
+    "steps": [
+      "Preheat the oven to 180C.",
+      "Cut the carrots into thin slices.",
+      "Mix them with oil, salt, paprika and oregano.",
+      "Put them on a tray without covering them.",
+      "Bake 12 to 15 minutes until crispy.",
+      "If you want, sprinkle cheese when you take them out."
+    ]
+  },
+  "receta_garbanzos_crujientes_129": {
+    "title": "Crunchy Spiced Chickpeas",
+    "description": "Salty and crunchy snack.",
+    "ingredients": [
+      "cooked chickpeas",
+      "Oil",
+      "Salt",
+      "Turmeric",
+      "Paprika",
+      "garlic powder",
+      "sesame seeds"
+    ],
+    "steps": [
+      "Preheat the oven to 200C.",
+      "Dry the chickpeas well.",
+      "Mix them with oil and spices.",
+      "Bake them for 25 minutes, moving the tray halfway through.",
+      "Sprinkle sesame if you want."
+    ]
+  },
+  "receta_pan_plano_snack_130": {
+    "title": "Homemade Crackers with Seeds",
+    "description": "Homemade crispy crackers.",
+    "ingredients": [
+      "Flour",
+      "Water",
+      "Oil",
+      "Salt",
+      "sesame seeds",
+      "chia seeds",
+      "linseed seeds"
+    ],
+    "steps": [
+      "Mix flour, salt and all the seeds.",
+      "Add water and oil; forms a mass.",
+      "Stretches very thin.",
+      "Cut into squares or triangles.",
+      "Bake for 10 to 12 min at 200C until golden."
+    ]
+  },
+  "receta_barras_avena_131": {
+    "title": "Oatmeal Bars with Nuts and Fruit",
+    "description": "Sweet and practical bars.",
+    "ingredients": [
+      "Oatmeal",
+      "Ripe banana",
+      "Honey",
+      "chopped walnuts",
+      "Raisins or cranberries",
+      "Cinnamon"
+    ],
+    "steps": [
+      "Step on the banana well.",
+      "Mix with oats, honey, walnuts and cinnamon.",
+      "Add raisins if you want.",
+      "Flatten the mixture on a tray.",
+      "Bake 18 min at 180C.",
+      "Cool and cut into bars."
+    ]
+  },
+  "receta_crocantes_manzana_132": {
+    "title": "Apple Chips with Cinnamon",
+    "description": "Baked sweet snack.",
+    "ingredients": [
+      "Apple",
+      "Cinnamon",
+      "Brown sugar"
+    ],
+    "steps": [
+      "Cut the apple into thin slices.",
+      "Mix cinnamon and sugar (if using).",
+      "Sprinkle over the slices.",
+      "Bake at 110C for 1 hour, rotating halfway through."
+    ]
+  },
+  "receta_chocolate_frito_133": {
+    "title": "Banana Bites with Chocolate and Walnuts",
+    "description": "Quick sweet bite.",
+    "ingredients": [
+      "Banana",
+      "dark chocolate",
+      "chopped walnuts"
+    ],
+    "steps": [
+      "Cut the banana into 2 cm slices.",
+      "Melt the chocolate in the microwave or double boiler.",
+      "Dip each slice in chocolate.",
+      "Place walnuts on top.",
+      "Refrigerate 10 to 15 minutes."
+    ]
+  },
+  "receta_mix_semillas_134": {
+    "title": "Mix of Roasted Seeds with Chili",
+    "description": "Salty mix to snack on.",
+    "ingredients": [
+      "Pumpkin seeds",
+      "sunflower seeds",
+      "Flax",
+      "Sesame",
+      "chili powder",
+      "Salt"
+    ],
+    "steps": [
+      "Toast everything in a frying pan over medium heat for 3 to 4 minutes.",
+      "Add salt and chili.",
+      "Chill before eating."
+    ]
+  },
+  "receta_tomates_cherry_asados_135": {
+    "title": "Roasted Cherry Tomatoes with Garlic",
+    "description": "Baked salty snack.",
+    "ingredients": [
+      "cherry tomatoes",
+      "Oil",
+      "garlic powder",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Mix tomatoes with oil, garlic, salt and pepper.",
+      "Bake 15 to 20 min at 200C."
+    ]
+  },
+  "receta_popcorn_casero_136": {
+    "title": "Homemade Flavored Popcorn",
+    "description": "Homemade goats with flavor.",
+    "ingredients": [
+      "Corn for popcorn",
+      "Oil",
+      "Salt",
+      "Merken",
+      "Paprika",
+      "Oregano",
+      "finely grated cheese"
+    ],
+    "steps": [
+      "Put oil in a pot over medium heat.",
+      "Add corn, cover and let it explode.",
+      "Season with whatever you want while it is warm."
+    ]
+  },
+  "receta_hummus_basico_137": {
+    "title": "Homemade Hummus with Sesame",
+    "description": "Easy chickpea dip.",
+    "ingredients": [
+      "cooked chickpeas",
+      "Oil",
+      "toasted sesame",
+      "lemon juice",
+      "Salt",
+      "Water"
+    ],
+    "steps": [
+      "Step on the chickpeas.",
+      "Add oil, lemon, salt and sesame.",
+      "Mix until creamy.",
+      "Adjust with water if necessary."
+    ]
+  },
+  "receta_rollitos_pepino_138": {
+    "title": "Cucumber Rolls with Cream Cheese",
+    "description": "Fresh and fast rolls.",
+    "ingredients": [
+      "Cucumber",
+      "Cream cheese",
+      "Dill or chives",
+      "Lemon",
+      "Salt"
+    ],
+    "steps": [
+      "Cut the cucumber into long slices.",
+      "Mix cream cheese with herbs and lemon.",
+      "Spread each sheet and roll."
+    ]
+  },
+  "receta_pan_plano_pizza_139": {
+    "title": "Mini Pizzas on Homemade Bread",
+    "description": "Mini pizza with homemade dough.",
+    "ingredients": [
+      "Flour",
+      "Water",
+      "Salt",
+      "Oil",
+      "Homemade tomato sauce",
+      "Grated cheese",
+      "Oregano"
+    ],
+    "steps": [
+      "Mix flour, water, salt and oil.",
+      "Knead for 1 min and flatten fine.",
+      "Cook in a pan for 1 to 2 minutes per side.",
+      "Add sauce, cheese and oregano.",
+      "Bake 8 to 10 min at 200C."
+    ]
+  },
+  "receta_queso_pan_143": {
+    "title": "Pan Seared Cheese with Homemade Bread",
+    "description": "Flatbread with seared cheese.",
+    "ingredients": [
+      "buttery cheese",
+      "Flour",
+      "Water",
+      "Salt"
+    ],
+    "steps": [
+      "Mix the flour with water and salt and form a flat bread.",
+      "Cook in a pan for 2 to 3 minutes per side.",
+      "In another skillet, brown the cheese for 1 to 2 minutes per side.",
+      "Serve with the bread."
+    ]
+  },
+  "receta_bolas_energia_144": {
+    "title": "Energy Balls",
+    "description": "Sweet snack without oven.",
+    "ingredients": [
+      "Oatmeal",
+      "peanut butter",
+      "Honey",
+      "Cocoa",
+      "chia seeds"
+    ],
+    "steps": [
+      "Mix everything until it forms dough.",
+      "Gun balls.",
+      "Refrigerate 10 minutes."
+    ]
+  },
+  "receta_cereal_casero_146": {
+    "title": "Homemade Toasted Cereal",
+    "description": "Homemade crunchy granola.",
+    "ingredients": [
+      "Oatmeal",
+      "Honey",
+      "Oil",
+      "chopped walnuts",
+      "sunflower seeds",
+      "Cinnamon"
+    ],
+    "steps": [
+      "Mix oats, honey, oil and nuts.",
+      "Add the seeds.",
+      "Toast in a pan for 6 to 8 min.",
+      "Chill to make it crispy."
+    ]
+  },
+  "receta_sandwich_pepino_147": {
+    "title": "Cucumber, Cream Cheese and Herb Sandwich",
+    "description": "Fresh snack-type sandwich.",
+    "ingredients": [
+      "Bread",
+      "Cream cheese",
+      "Sliced ​​cucumber",
+      "Ciboulette",
+      "Lemon",
+      "Salt"
+    ],
+    "steps": [
+      "Mix cream cheese with chives and lemon.",
+      "Spread the bread.",
+      "Add cucumber.",
+      "Close and serve."
+    ]
+  }
+}

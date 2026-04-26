@@ -1,0 +1,349 @@
+{
+  "common": {
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Agregar",
+    "create": "Crear",
+    "clear": "Limpiar",
+    "filters": "Filtros",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "retry": "Reintentar",
+    "remove": "Eliminar"
+  },
+  "nav": {
+    "week": "Semana",
+    "recipes": "Recetas",
+    "favorites": "Favoritos",
+    "grocery": "Compras",
+    "settings": "Ajustes"
+  },
+  "meal": {
+    "BREAKFAST": "Desayuno",
+    "LUNCH": "Almuerzo",
+    "DINNER": "Cena",
+    "SNACK": "Snack",
+    "SCHOOL_SNACK": "Colacion"
+  },
+  "recipeCategory": {
+    "DESAYUNO": "Desayuno",
+    "ALMUERZO": "Almuerzo",
+    "CENA": "Cena",
+    "SNACK": "Snack",
+    "POSTRE": "Postre"
+  },
+  "diet": {
+    "none": "Sin tags",
+    "sin_lactosa": "Sin lactosa",
+    "sin_gluten": "Sin gluten",
+    "vegan": "Vegan",
+    "vegetariano": "Vegetariano",
+    "keto": "Keto"
+  },
+  "app": {
+    "loadingPreparing": "Preparando experiencia...",
+    "loadingInit": "Inicializando app...",
+    "loadingStyles": "Cargando estilos..."
+  },
+  "onboarding": {
+    "skip": "Saltar",
+    "continue": "Continuar",
+    "start": "Comenzar",
+    "follow": "Seguir",
+    "step": "PASO",
+    "slides": {
+      "welcome": {
+        "title": "Bienvenido a Menura",
+        "subtitle": "Tu app offline para planificar comidas y compras.",
+        "bullets": [
+          "Planifica menus semanales",
+          "Guarda y crea recetas",
+          "Arma listas de compras por categoria"
+        ],
+        "note": "Una app clara, practica y sin complicaciones."
+      },
+      "week": {
+        "title": "Planifica sin estres",
+        "subtitle": "Tu semana completa en una sola vista.",
+        "bullets": [
+          "Vista semanal completa",
+          "Bloques por dia",
+          "Secciones por comida",
+          "Boton Agregar en cada slot",
+          "Navegacion entre semanas"
+        ],
+        "note": "Ideal para armar rutina y meal prep."
+      },
+      "recipes": {
+        "title": "Recetas que si usas",
+        "subtitle": "Tu seccion de recetas, clara y ordenada.",
+        "bullets": [
+          "Crea tus propias recetas con ingredientes y pasos.",
+          "Explora recetas de Menura listas para usar.",
+          "Agrega comidas rapidas como con solo su nombre en segundos.",
+          "Busca y filtra por tipo de comida o dieta (vegana, keto, vegetariana y mas)."
+        ],
+        "note": "Todo organizado en un solo lugar, sin complicaciones."
+      },
+      "grocery": {
+        "title": "Compra con orden real",
+        "subtitle": "Lista por categorias y checklist editable.",
+        "bullets": [
+          "Crea tu lista de compras para cualquier semana.",
+          "Agrega productos manualmente con categoria y cantidad.",
+          "Marca lo comprado y manten todo actualizado."
+        ],
+        "note": "Planifica mejor, compra mas rapido."
+      },
+      "premium": {
+        "title": "Escala a tu ritmo",
+        "subtitle": "Free y Premium claros, sin publicidad.",
+        "bullets": [
+          "Personaliza el tema visual de tu app.",
+          "Todo funciona offline, tus datos quedan en tu equipo.",
+          "Mejora a Premium cuando quieras planificar sin limites."
+        ],
+        "note": "Tu decides cuanto organizar, sin anuncios ni interrupciones."
+      }
+    }
+  },
+  "week": {
+    "calendarWeekly": "Calendario semanal",
+    "calendarTitle": "Calendario semanal",
+    "weekdayMinMon": "L",
+    "weekdayMinTue": "M",
+    "weekdayMinWed": "M",
+    "weekdayMinThu": "J",
+    "weekdayMinFri": "V",
+    "weekdayMinSat": "S",
+    "weekdayMinSun": "D",
+    "from": "Desde",
+    "to": "Hasta",
+    "empty": "Vacio",
+    "add": "+ Agregar",
+    "edit": "Editar",
+    "exportPdf": "Exportar PDF",
+    "exportPdfBusy": "Generando...",
+    "exportPdfTitle": "Plan semanal",
+    "exportPdfFooter": "Generado con",
+    "notesLabel": "Notas"
+  },
+  "recipeList": {
+    "title": "Recetas",
+    "subtitle": "Planifica mas rapido con tu catalogo.",
+    "create": "Crear receta",
+    "searchPlaceholder": "Buscar por titulo o descripcion...",
+    "onlyFavorites": "Solo favoritos",
+    "ownRecipes": "Recetas propias",
+    "recipes": "Recetas",
+    "noResults": "No hay recetas para ese criterio.",
+    "deleteTitle": "Eliminar receta",
+    "deleteMessage": "Se eliminara \"{{title}}\". Esta accion no se puede deshacer."
+  },
+  "recipeDetail": {
+    "notFound": "Receta no encontrada.",
+    "servings": "Porciones",
+    "tags": "Tags",
+    "ingredients": "Ingredientes",
+    "emptyIngredients": "Aun no agregaste ingredientes.",
+    "steps": "Pasos",
+    "emptySteps": "Aun no agregaste pasos.",
+    "addToCalendar": "Agregar al calendario",
+    "addToShopping": "Agregar a compras",
+    "added": "Agregado",
+    "calendarModalSubtitle": "Selecciona fecha y tipo de comida",
+    "date": "Fecha",
+    "food": "Comida",
+    "save": "Guardar",
+    "favorite": "Agregar a favoritos",
+    "unfavorite": "Quitar de favoritos",
+    "photoPendingChip": "Foto pendiente",
+    "imageUnavailableChip": "Imagen no disponible",
+    "customPhotoFallback": "Las recetas creadas en la app aun no guardan una foto propia, pero tu receta esta intacta.",
+    "photoFallback": "Esta receta no tenia una foto asociada; mostramos un estado claro para que sepas que nada falta."
+  },
+  "favorites": {
+    "title": "Favoritos",
+    "subtitle": "Tus recetas guardadas a un toque.",
+    "searchPlaceholder": "Buscar en favoritos...",
+    "empty": "No hay favoritos."
+  },
+  "grocery": {
+    "title": "Lista de compras",
+    "currentWeek": "Semana actual",
+    "selectedWeek": "Semana seleccionada",
+    "changeWeek": "Cambiar semana",
+    "calendar": "Calendario compras",
+    "emptyTitle": "No hay productos aun",
+    "emptySubtitle": "O genera automaticamente desde tus recetas",
+    "addProduct": "Agregar producto",
+    "weekNowButton": "Semana actual",
+    "addProductTitle": "Agregar producto",
+    "editProductTitle": "Editar producto",
+    "autoSaveNote": "Se guarda automaticamente en tu lista de esta semana.",
+    "product": "Producto",
+    "qtyUnit": "Cantidad y unidad",
+    "category": "Categoria (opcional)",
+    "categoryPlaceholder": "Categoria (ej: Abarrotes, Lacteos, Congelados...)",
+    "namePlaceholder": "Nombre producto",
+    "qtyPlaceholder": "Cantidad",
+    "catVerduras": "Verduras",
+    "catCarnes": "Carnes",
+    "catLacteos": "Lacteos",
+    "catAbarrotes": "Abarrotes",
+    "catEspecias": "Especias",
+    "catOtros": "Otros",
+    "suggestionGroceries": "Abarrotes",
+    "suggestionDairy": "Lacteos",
+    "suggestionVegetables": "Verduras",
+    "suggestionMeats": "Carnes",
+    "suggestionFrozen": "Congelados",
+    "suggestionCleaning": "Limpieza",
+    "shareTitle": "Lista de compras",
+    "shareMessage": "Lista de compras"
+  },
+  "recipeSelector": {
+    "title": "Elegir receta",
+    "searchPlaceholder": "Buscar receta...",
+    "metaSeparator": "•"
+  },
+  "filtersModal": {
+    "subtitle": "Ajusta categoria y preferencias alimentarias.",
+    "category": "Categoria",
+    "dietType": "Tipo de dieta"
+  },
+  "slotAction": {
+    "title": "Editar comida",
+    "subtitle": "Asigna receta, texto manual o limpia el slot.",
+    "chooseRecipe": "Elegir receta",
+    "manualTitle": "Texto manual",
+    "manualPlaceholder": "Ej: Ensalada libre o fuera de casa...",
+    "manualSave": "Guardar texto manual",
+    "viewRecipe": "Ver receta",
+    "clearContent": "Borrar contenido",
+    "forMemberTitle": "Para quien",
+    "everyone": "Todos",
+    "manageMembers": "Gestionar",
+    "addMembersHint": "Agregar miembros del hogar"
+  },
+  "createRecipe": {
+    "editTitle": "Editar receta",
+    "namePlaceholder": "Nombre receta",
+    "descriptionPlaceholder": "Descripcion breve",
+    "people": "personas",
+    "dietTagsPlaceholder": "Etiquetas de dieta (ej: vegana, sin lactosa, sin gluten)",
+    "ingredientPlaceholder": "Ingrediente",
+    "qtyShort": "Cant.",
+    "unitPlaceholder": "Unidad",
+    "preparation": "Preparacion",
+    "step": "Paso",
+    "stepPlaceholder": "Describe el paso",
+    "saving": "Guardando...",
+    "saveRecipe": "Guardar receta"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "subtitle": "Gestiona tu experiencia en Menura y tus preferencias",
+    "controlCenter": "CENTRO DE CONTROL",
+    "languageTitle": "Idioma",
+    "languageSubtitle": "Cambia el idioma de la interfaz",
+    "spanish": "Español",
+    "english": "English",
+    "themesTitle": "Temas",
+    "themesSubtitle": "Personaliza el estilo visual de tu app.",
+    "legalTitle": "Legal",
+    "legalSubtitle": "Privacidad, terminos y gestion de suscripcion.",
+    "privacy": "Politica de privacidad",
+    "terms": "Terminos",
+    "manageSubs": "Gestionar suscripciones",
+    "themeNames": {
+      "oceano": "Oceano",
+      "menta": "Menta",
+      "coral": "Coral",
+      "lavanda": "Lavanda"
+    },
+    "themeSubtitles": {
+      "oceano": "Azul elegante",
+      "menta": "Fresco y suave",
+      "coral": "Calido moderno",
+      "lavanda": "Calmo premium"
+    },
+    "premium": {
+      "badgePremium": "Premium",
+      "badgeBestValue": "Mejor valor",
+      "planActive": "Plan Premium activo",
+      "planCurrentFree": "Plan actual: Free",
+      "freeTitle": "FREE",
+      "free1": "✔ Planear 1 semana activa",
+      "free2": "✔ Lista de compras solo para esa semana activa",
+      "free3": "✔ Maximo 5 recetas propias",
+      "free4": "✔ Maximo 5 favoritos",
+      "free5": "✔ Sin publicidad",
+      "premiumTitle": "PREMIUM",
+      "premium1": "✔ Planear semanas ilimitadas (pasadas y futuras)",
+      "premium2": "✔ Generar lista de compras para cualquier semana",
+      "premium3": "✔ Acceso a +500 recetas exclusivas",
+      "premium4": "✔ Recetas propias ilimitadas",
+      "premium5": "✔ Favoritos ilimitados",
+      "premium6": "✔ Sin publicidad",
+      "upgrade": "Mejorar a Premium",
+      "active": "Premium activo"
+    }
+  },
+  "paywall": {
+    "title": "Premium",
+    "subtitle": "Desbloquea semanas, recetas y listas de compras sin limite de elementos.",
+    "feature1": "Lista de compras consolidada sin limite de articulos",
+    "feature2": "Recetas personalizadas sin limite",
+    "feature3": "Rango personalizado de fechas en la vista semanal",
+    "status": "Estado actual: {{plan}}",
+    "disclosureTitle": "Condiciones de suscripcion",
+    "disclosureLine1": "Plan mensual: {{price}} por mes, renovacion automatica hasta cancelar.",
+    "disclosureLine2": "Puedes cancelar cuando quieras desde Google Play > Suscripciones. El acceso sigue hasta terminar el periodo actual.",
+    "disclosureLine3": "La compra unica premium no se renueva y mantiene el acceso premium mientras la compra siga activa en tu cuenta.",
+    "subscribe": "Suscribirse ({{price}})",
+    "subscribePending": "Suscripcion mensual en Google Play",
+    "oneTime": "Compra unica ({{price}})",
+    "oneTimePending": "Compra unica en Google Play",
+    "pricePending": "Precio disponible en Google Play",
+    "restore": "Restaurar compras",
+    "manageSubs": "Gestionar suscripciones",
+    "privacy": "Politica de privacidad",
+    "terms": "Terminos",
+    "updated": "Estado premium actualizado.",
+    "error": "No se pudo completar la compra.",
+    "cancelled": "Compra cancelada.",
+    "pending": "Tu compra esta pendiente de confirmacion por Google Play. El acceso se activara en cuanto se procese.",
+    "unavailable": "Las compras no estan disponibles ahora mismo. Asegurate de tener conexion a internet y que tu cuenta de Google Play este configurada.",
+    "webOnlyNote": "Las compras in-app solo estan disponibles en la version para Android. Descarga Menura desde Google Play para suscribirte o comprar Premium."
+  },
+  "members": {
+    "title": "Miembros del hogar",
+    "subtitle": "Crea perfiles para que cada uno tenga su propia comida en el plan: util cuando el bebe come distinto, o para apartar la colacion del cole.",
+    "newTitle": "Nuevo miembro",
+    "editTitle": "Editar miembro",
+    "nameLabel": "Nombre",
+    "emojiLabel": "Emoji",
+    "colorLabel": "Color",
+    "suggestionsLabel": "Sugerencias",
+    "create": "Agregar",
+    "listTitle": "Tus miembros",
+    "empty": "Aun no agregaste miembros. Por defecto, todas las comidas son para 'Todos'.",
+    "removeWarning": "Se borrara este miembro y los slots asignados a el. Esta accion no se puede deshacer.",
+    "openFromSettings": "Miembros del hogar"
+  },
+  "share": {
+    "title": "Compartir lista",
+    "subtitle": "Manda la lista por WhatsApp, mail o pasale el QR a tu pareja para que la vea.",
+    "qrA11y": "Codigo QR de la lista de compras",
+    "qrHint": "Escanea con la camara para leer la lista como texto.",
+    "qrTruncated": "El QR muestra parte del texto porque la lista es larga. Usa el boton para enviar la version completa.",
+    "previewLabel": "Texto a compartir",
+    "shareCta": "Compartir",
+    "sharing": "Enviando...",
+    "empty": "Tu lista esta vacia. Agrega ingredientes o productos manuales."
+  }
+}

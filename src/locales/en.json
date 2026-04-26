@@ -1,0 +1,349 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "create": "Create",
+    "clear": "Clear",
+    "filters": "Filters",
+    "search": "Search",
+    "loading": "Loading...",
+    "retry": "Retry",
+    "remove": "Remove"
+  },
+  "nav": {
+    "week": "Week",
+    "recipes": "Recipes",
+    "favorites": "Favorites",
+    "grocery": "Shopping",
+    "settings": "Settings"
+  },
+  "meal": {
+    "BREAKFAST": "Breakfast",
+    "LUNCH": "Lunch",
+    "DINNER": "Dinner",
+    "SNACK": "Snack",
+    "SCHOOL_SNACK": "School snack"
+  },
+  "recipeCategory": {
+    "DESAYUNO": "Breakfast",
+    "ALMUERZO": "Lunch",
+    "CENA": "Dinner",
+    "SNACK": "Snack",
+    "POSTRE": "Dessert"
+  },
+  "diet": {
+    "none": "No tags",
+    "sin_lactosa": "Lactose-free",
+    "sin_gluten": "Gluten-free",
+    "vegan": "Vegan",
+    "vegetariano": "Vegetarian",
+    "keto": "Keto"
+  },
+  "app": {
+    "loadingPreparing": "Preparing experience...",
+    "loadingInit": "Initializing app...",
+    "loadingStyles": "Loading styles..."
+  },
+  "onboarding": {
+    "skip": "Skip",
+    "continue": "Continue",
+    "start": "Start",
+    "follow": "Next",
+    "step": "STEP",
+    "slides": {
+      "welcome": {
+        "title": "Welcome to Menura",
+        "subtitle": "Your offline app to plan meals and shopping.",
+        "bullets": [
+          "Plan weekly menus",
+          "Save and create recipes",
+          "Build shopping lists by category"
+        ],
+        "note": "A clear, practical app with no complications."
+      },
+      "week": {
+        "title": "Plan stress-free",
+        "subtitle": "Your full week in a single view.",
+        "bullets": [
+          "Full weekly view",
+          "Day blocks",
+          "Meal sections",
+          "Add button in every slot",
+          "Week navigation"
+        ],
+        "note": "Perfect to build routine and meal prep."
+      },
+      "recipes": {
+        "title": "Recipes you'll use",
+        "subtitle": "Your recipe area, clear and organized.",
+        "bullets": [
+          "Create your own recipes with ingredients and steps.",
+          "Explore ready-to-use Menura recipes.",
+          "Add quick meals with only a name in seconds.",
+          "Search and filter by meal type or diet (vegan, keto, vegetarian and more)."
+        ],
+        "note": "Everything in one place, no complications."
+      },
+      "grocery": {
+        "title": "Shop with real order",
+        "subtitle": "Category list and editable checklist.",
+        "bullets": [
+          "Create your shopping list for any week.",
+          "Add manual products with category and quantity.",
+          "Mark items as bought and keep everything updated."
+        ],
+        "note": "Plan better, shop faster."
+      },
+      "premium": {
+        "title": "Scale at your pace",
+        "subtitle": "Clear Free and Premium, ad-free.",
+        "bullets": [
+          "Customize your app theme.",
+          "Everything works offline, your data stays on your device.",
+          "Upgrade to Premium anytime to plan without limits."
+        ],
+        "note": "You decide how much to organize, with no ads or interruptions."
+      }
+    }
+  },
+  "week": {
+    "calendarWeekly": "Weekly calendar",
+    "calendarTitle": "Weekly calendar",
+    "weekdayMinMon": "M",
+    "weekdayMinTue": "T",
+    "weekdayMinWed": "W",
+    "weekdayMinThu": "T",
+    "weekdayMinFri": "F",
+    "weekdayMinSat": "S",
+    "weekdayMinSun": "S",
+    "from": "From",
+    "to": "To",
+    "empty": "Empty",
+    "add": "+ Add",
+    "edit": "Edit",
+    "exportPdf": "Export PDF",
+    "exportPdfBusy": "Generating...",
+    "exportPdfTitle": "Weekly plan",
+    "exportPdfFooter": "Generated with",
+    "notesLabel": "Notes"
+  },
+  "recipeList": {
+    "title": "Recipes",
+    "subtitle": "Plan faster with your catalog.",
+    "create": "Create recipe",
+    "searchPlaceholder": "Search by title or description...",
+    "onlyFavorites": "Only favorites",
+    "ownRecipes": "My recipes",
+    "recipes": "Recipes",
+    "noResults": "No recipes match this filter.",
+    "deleteTitle": "Delete recipe",
+    "deleteMessage": "\"{{title}}\" will be deleted. This action cannot be undone."
+  },
+  "recipeDetail": {
+    "notFound": "Recipe not found.",
+    "servings": "Servings",
+    "tags": "Tags",
+    "ingredients": "Ingredients",
+    "emptyIngredients": "No ingredients added yet.",
+    "steps": "Steps",
+    "emptySteps": "No steps added yet.",
+    "addToCalendar": "Add to calendar",
+    "addToShopping": "Add to shopping",
+    "added": "Added",
+    "calendarModalSubtitle": "Select date and meal type",
+    "date": "Date",
+    "food": "Meal",
+    "save": "Save",
+    "favorite": "Add to favorites",
+    "unfavorite": "Remove from favorites",
+    "photoPendingChip": "Photo pending",
+    "imageUnavailableChip": "Image unavailable",
+    "customPhotoFallback": "Custom recipes do not save a photo yet, but your recipe is intact.",
+    "photoFallback": "This recipe had no photo attached; we show a clear state so nothing looks broken."
+  },
+  "favorites": {
+    "title": "Favorites",
+    "subtitle": "Your saved recipes one tap away.",
+    "searchPlaceholder": "Search favorites...",
+    "empty": "No favorites yet."
+  },
+  "grocery": {
+    "title": "Shopping list",
+    "currentWeek": "Current week",
+    "selectedWeek": "Selected week",
+    "changeWeek": "Change week",
+    "calendar": "Shopping calendar",
+    "emptyTitle": "No products yet",
+    "emptySubtitle": "Or generate automatically from your recipes",
+    "addProduct": "Add product",
+    "weekNowButton": "Current week",
+    "addProductTitle": "Add product",
+    "editProductTitle": "Edit product",
+    "autoSaveNote": "It is saved automatically to this week's list.",
+    "product": "Product",
+    "qtyUnit": "Quantity and unit",
+    "category": "Category (optional)",
+    "categoryPlaceholder": "Category (e.g. Groceries, Dairy, Frozen...)",
+    "namePlaceholder": "Product name",
+    "qtyPlaceholder": "Quantity",
+    "catVerduras": "Vegetables",
+    "catCarnes": "Meats",
+    "catLacteos": "Dairy",
+    "catAbarrotes": "Groceries",
+    "catEspecias": "Spices",
+    "catOtros": "Others",
+    "suggestionGroceries": "Groceries",
+    "suggestionDairy": "Dairy",
+    "suggestionVegetables": "Vegetables",
+    "suggestionMeats": "Meats",
+    "suggestionFrozen": "Frozen",
+    "suggestionCleaning": "Cleaning",
+    "shareTitle": "Shopping list",
+    "shareMessage": "Shopping list"
+  },
+  "recipeSelector": {
+    "title": "Choose recipe",
+    "searchPlaceholder": "Search recipe...",
+    "metaSeparator": "•"
+  },
+  "filtersModal": {
+    "subtitle": "Adjust category and diet preferences.",
+    "category": "Category",
+    "dietType": "Diet type"
+  },
+  "slotAction": {
+    "title": "Edit meal",
+    "subtitle": "Assign recipe, manual text or clear this slot.",
+    "chooseRecipe": "Choose recipe",
+    "manualTitle": "Manual text",
+    "manualPlaceholder": "Ex: salad or eating out...",
+    "manualSave": "Save manual text",
+    "viewRecipe": "View recipe",
+    "clearContent": "Clear content",
+    "forMemberTitle": "For whom",
+    "everyone": "Everyone",
+    "manageMembers": "Manage",
+    "addMembersHint": "Add household members"
+  },
+  "createRecipe": {
+    "editTitle": "Edit recipe",
+    "namePlaceholder": "Recipe name",
+    "descriptionPlaceholder": "Short description",
+    "people": "people",
+    "dietTagsPlaceholder": "Diet tags (ex: vegan, lactose-free, gluten-free)",
+    "ingredientPlaceholder": "Ingredient",
+    "qtyShort": "Qty.",
+    "unitPlaceholder": "Unit",
+    "preparation": "Preparation",
+    "step": "Step",
+    "stepPlaceholder": "Describe the step",
+    "saving": "Saving...",
+    "saveRecipe": "Save recipe"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your Menura experience and preferences",
+    "controlCenter": "CONTROL CENTER",
+    "languageTitle": "Language",
+    "languageSubtitle": "Change app interface language",
+    "spanish": "Español",
+    "english": "English",
+    "themesTitle": "Themes",
+    "themesSubtitle": "Customize your app visual style.",
+    "legalTitle": "Legal",
+    "legalSubtitle": "Privacy, terms and subscription management.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms",
+    "manageSubs": "Manage subscriptions",
+    "themeNames": {
+      "oceano": "Ocean",
+      "menta": "Mint",
+      "coral": "Coral",
+      "lavanda": "Lavender"
+    },
+    "themeSubtitles": {
+      "oceano": "Elegant blue",
+      "menta": "Fresh and soft",
+      "coral": "Modern warm",
+      "lavanda": "Calm premium"
+    },
+    "premium": {
+      "badgePremium": "Premium",
+      "badgeBestValue": "Best value",
+      "planActive": "Premium plan active",
+      "planCurrentFree": "Current plan: Free",
+      "freeTitle": "FREE",
+      "free1": "✔ Plan 1 active week",
+      "free2": "✔ Shopping list only for that active week",
+      "free3": "✔ Maximum 5 custom recipes",
+      "free4": "✔ Maximum 5 favorites",
+      "free5": "✔ No ads",
+      "premiumTitle": "PREMIUM",
+      "premium1": "✔ Plan unlimited weeks (past and future)",
+      "premium2": "✔ Generate shopping list for any week",
+      "premium3": "✔ Access to +500 exclusive recipes",
+      "premium4": "✔ Unlimited custom recipes",
+      "premium5": "✔ Unlimited favorites",
+      "premium6": "✔ No ads",
+      "upgrade": "Upgrade to Premium",
+      "active": "Premium active"
+    }
+  },
+  "paywall": {
+    "title": "Premium",
+    "subtitle": "Unlock unlimited weeks, recipes and shopping list items.",
+    "feature1": "Unlimited consolidated shopping list items",
+    "feature2": "Unlimited custom recipes",
+    "feature3": "Custom date range in the weekly view",
+    "status": "Current status: {{plan}}",
+    "disclosureTitle": "Subscription terms",
+    "disclosureLine1": "Monthly plan: {{price}} per month, auto-renews until canceled.",
+    "disclosureLine2": "You can cancel anytime from Google Play > Subscriptions. Access continues until current period ends.",
+    "disclosureLine3": "The premium lifetime purchase does not auto-renew and keeps premium access while the purchase remains active on your account.",
+    "subscribe": "Subscribe ({{price}})",
+    "subscribePending": "Monthly subscription on Google Play",
+    "oneTime": "One-time purchase ({{price}})",
+    "oneTimePending": "Lifetime purchase on Google Play",
+    "pricePending": "Price shown in Google Play",
+    "restore": "Restore purchases",
+    "manageSubs": "Manage subscriptions",
+    "privacy": "Privacy policy",
+    "terms": "Terms",
+    "updated": "Premium status updated.",
+    "error": "Could not complete purchase.",
+    "cancelled": "Purchase canceled.",
+    "pending": "Your purchase is pending confirmation from Google Play. Access will activate once it is processed.",
+    "unavailable": "Purchases are not available right now. Check your internet connection and that your Google Play account is set up.",
+    "webOnlyNote": "In-app purchases are only available in the Android app. Download Menura from Google Play to subscribe or buy Premium."
+  },
+  "members": {
+    "title": "Household members",
+    "subtitle": "Create profiles so each person can have their own meal in the plan: useful when the baby eats different food, or when separating school snacks.",
+    "newTitle": "New member",
+    "editTitle": "Edit member",
+    "nameLabel": "Name",
+    "emojiLabel": "Emoji",
+    "colorLabel": "Color",
+    "suggestionsLabel": "Suggestions",
+    "create": "Add",
+    "listTitle": "Your members",
+    "empty": "No members yet. Meals are assigned to 'Everyone' by default.",
+    "removeWarning": "This member and the slots assigned to them will be deleted. This cannot be undone.",
+    "openFromSettings": "Household members"
+  },
+  "share": {
+    "title": "Share list",
+    "subtitle": "Send the list via WhatsApp, email or share the QR with your partner.",
+    "qrA11y": "Shopping list QR code",
+    "qrHint": "Scan with the camera to read the list as text.",
+    "qrTruncated": "The QR shows part of the text because the list is long. Use the share button to send the full version.",
+    "previewLabel": "Text to share",
+    "shareCta": "Share",
+    "sharing": "Sharing...",
+    "empty": "Your list is empty. Add ingredients or manual products."
+  }
+}

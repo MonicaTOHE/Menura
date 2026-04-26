@@ -1,0 +1,5326 @@
+[
+  {
+    "id": "receta_omelette_queso_003",
+    "title": "Omelette de Queso",
+    "description": "Omelette de queso clasico.",
+    "category": "DESAYUNO",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Leche",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Bate huevos con leche.",
+      "Derrite mantequilla y vierte la mezcla.",
+      "Agrega queso y dobla el omelette.",
+      "Cocina solo hasta que el interior siga jugoso."
+    ]
+  },
+  {
+    "id": "receta_smoothie_platano_avena_004",
+    "title": "Smoothie de Platano y Avena",
+    "description": "Smoothie rapido y cremoso.",
+    "category": "DESAYUNO",
+    "prepMinutes": 5,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Platano",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Leche",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Avena",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Licua todo hasta cremoso.",
+      "Anade mas leche si lo quieres mas liquido."
+    ]
+  },
+  {
+    "id": "receta_yogur_granola_fruta_005",
+    "title": "Yogur con Granola y Frutas",
+    "description": "Bowl de yogur con frutas.",
+    "category": "DESAYUNO",
+    "prepMinutes": 5,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Yogur",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Granola",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Fruta picada",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Coloca yogur en un bowl.",
+      "Anade frutas y granola encima.",
+      "Sirve inmediatamente para mantener el crunch."
+    ]
+  },
+  {
+    "id": "receta_tostadas_francesas_006",
+    "title": "Tostadas Francesas",
+    "description": "Clasico de desayuno.",
+    "category": "DESAYUNO",
+    "prepMinutes": 15,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Leche",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Azucar",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Canela",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Pan",
+        "qty": 4,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Mezcla huevos, leche, azucar y canela.",
+      "Remoja el pan 5 segundos por lado.",
+      "Cocina en sarten hasta dorar."
+    ]
+  },
+  {
+    "id": "receta_tostadas_palta_007",
+    "title": "Tostadas con Palta",
+    "description": "Tostadas faciles con palta.",
+    "category": "DESAYUNO",
+    "prepMinutes": 7,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Palta",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Limon",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Tuesta el pan.",
+      "Machaca la palta y sazona.",
+      "Unta sobre el pan."
+    ]
+  },
+  {
+    "id": "receta_muffins_avena_platano_008",
+    "title": "Muffins de Avena y Platano",
+    "description": "Muffins sin harina.",
+    "category": "DESAYUNO",
+    "prepMinutes": 25,
+    "costLevel": "LOW",
+    "servingsBase": 6,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Platano",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Polvo de hornear",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Tritura el platano y mezcla con huevo.",
+      "Anade avena y polvo de hornear.",
+      "Reparte en moldes y hornea 15 min a 180C."
+    ]
+  },
+  {
+    "id": "receta_quesadillas_queso_009",
+    "title": "Quesadillas de Queso",
+    "description": "Quesadilla simple al sarten.",
+    "category": "DESAYUNO",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Tortilla",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Rellena la tortilla con queso.",
+      "Cocina en sarten hasta derretir y dorar."
+    ]
+  },
+  {
+    "id": "receta_huevos_revueltos_cremosos_010",
+    "title": "Huevos Revueltos Cremosos",
+    "description": "Huevos suaves y cremosos.",
+    "category": "DESAYUNO",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "keto"
+    ],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Crema o leche",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Bate los huevos sin espuma excesiva.",
+      "Cocina a fuego bajo removiendo suave.",
+      "Apaga antes de que se sequen; terminan de cuajar solos."
+    ]
+  },
+  {
+    "id": "receta_pudding_chia_012",
+    "title": "Pudding de Chia Clasico",
+    "description": "Pudding de chia basico.",
+    "category": "DESAYUNO",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Chia",
+        "qty": 3,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Mezcla chia y leche.",
+      "Revuelve 3 veces en los primeros 10 minutos.",
+      "Refrigera minimo 2 horas."
+    ]
+  },
+  {
+    "id": "receta_avena_horno_manzana_013",
+    "title": "Avena al Horno con Manzana",
+    "description": "Avena horneada con fruta.",
+    "category": "DESAYUNO",
+    "prepMinutes": 25,
+    "costLevel": "LOW",
+    "servingsBase": 3,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Manzana",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Canela",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla todo en un bowl.",
+      "Vierte en una fuente.",
+      "Hornea 20 a 25 min a 180C."
+    ]
+  },
+  {
+    "id": "receta_crepes_sencillos_014",
+    "title": "Crepes Sencillos",
+    "description": "Crepes clasicos y finos.",
+    "category": "DESAYUNO",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 4,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Harina",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Leche",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Mantequilla derretida",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Mezcla harina, huevos y leche.",
+      "Anade la mantequilla.",
+      "Cocina capas finas en sarten antiadherente."
+    ]
+  },
+  {
+    "id": "receta_sandwich_jamon_queso_015",
+    "title": "Sandwich de Jamon y Queso a la Plancha",
+    "description": "Sandwich dorado y crocante.",
+    "category": "DESAYUNO",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Jamon",
+        "qty": 1,
+        "unit": "lamina",
+        "group": "Carnes"
+      },
+      {
+        "name": "Queso",
+        "qty": 1,
+        "unit": "lamina",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Arma el sandwich y unta mantequilla por fuera.",
+      "Doralo en sarten a fuego medio."
+    ]
+  },
+  {
+    "id": "receta_yogur_avena_remojada_017",
+    "title": "Yogur con Avena Remojada",
+    "description": "Avena remojada con yogur.",
+    "category": "DESAYUNO",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Yogur",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Miel",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Mezcla avena y yogur la noche anterior.",
+      "Anade miel al servir."
+    ]
+  },
+  {
+    "id": "receta_wrap_huevo_018",
+    "title": "Wrap de Huevo",
+    "description": "Wrap de desayuno completo.",
+    "category": "DESAYUNO",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Tortilla",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Huevos revueltos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Queso",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Tomate picado",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Cocina los huevos.",
+      "Coloca todo en la tortilla.",
+      "Enrolla y sirve."
+    ]
+  },
+  {
+    "id": "receta_pan_ricotta_miel_019",
+    "title": "Pan con Ricotta y Miel",
+    "description": "Pan tostado con ricotta.",
+    "category": "DESAYUNO",
+    "prepMinutes": 7,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Ricotta",
+        "qty": 3,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Tuesta el pan.",
+      "Unta ricotta y anade miel encima."
+    ]
+  },
+  {
+    "id": "receta_shakshuka_tradicional_021",
+    "title": "Shakshuka Tradicional Completa",
+    "description": "Shakshuka completa.",
+    "category": "DESAYUNO",
+    "prepMinutes": 30,
+    "costLevel": "MID",
+    "servingsBase": 3,
+    "dietTags": [
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Cebolla",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Pimiento rojo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Ajo",
+        "qty": 2,
+        "unit": "dientes",
+        "group": "Especias"
+      },
+      {
+        "name": "Salsa de tomate",
+        "qty": 2,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Comino",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimenton dulce",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Huevos",
+        "qty": 3,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Perejil",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Sofrie cebolla, ajo y pimiento 5 minutos.",
+      "Agrega salsa y especias; cocina 8 a 10 minutos.",
+      "Haz huecos y anade los huevos.",
+      "Cocina tapado hasta que cuajen.",
+      "Decora con perejil."
+    ]
+  },
+  {
+    "id": "receta_croque_madame_022",
+    "title": "Croque Madame Casero",
+    "description": "Sandwich con salsa blanca y huevo.",
+    "category": "DESAYUNO",
+    "prepMinutes": 30,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Jamon",
+        "qty": 2,
+        "unit": "laminas",
+        "group": "Carnes"
+      },
+      {
+        "name": "Queso",
+        "qty": 2,
+        "unit": "laminas",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Harina",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Nuez moscada",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Haz salsa blanca con mantequilla, harina y leche.",
+      "Arma el sandwich con jamon y queso.",
+      "Cubre con salsa blanca y gratina 10 min a 200C.",
+      "Frie el huevo y colocalo arriba."
+    ]
+  },
+  {
+    "id": "receta_huevos_benedictinos_023",
+    "title": "Huevos Benedictinos Sencillos",
+    "description": "Version sencilla benedictina.",
+    "category": "DESAYUNO",
+    "prepMinutes": 25,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Pan tipo muffin",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Jamon",
+        "qty": 2,
+        "unit": "laminas",
+        "group": "Carnes"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Yema",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Limon",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Agua caliente",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Tuesta el pan y coloca el jamon.",
+      "Pocha los huevos 3 minutos.",
+      "Haz la holandesa rapida al bano Maria.",
+      "Monta todo."
+    ]
+  },
+  {
+    "id": "receta_avena_horno_frutosrojos_024",
+    "title": "Avena al Horno con Frutos Rojos",
+    "description": "Avena al horno frutal.",
+    "category": "DESAYUNO",
+    "prepMinutes": 25,
+    "costLevel": "LOW",
+    "servingsBase": 3,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Frutos rojos",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Vainilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla avena, leche, huevo, miel y vainilla.",
+      "Anade frutos rojos.",
+      "Hornea 25 min a 180C."
+    ]
+  },
+  {
+    "id": "receta_frittata_espinaca_queso_025",
+    "title": "Frittata de Espinaca y Queso",
+    "description": "Frittata horneada.",
+    "category": "DESAYUNO",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 3,
+    "dietTags": [
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 4,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Sofrie la cebolla y la espinaca.",
+      "Mezcla los huevos con el queso.",
+      "Cocina 3 min en sarten y 10 min en horno."
+    ]
+  },
+  {
+    "id": "receta_burrito_desayuno_027",
+    "title": "Burrito de Desayuno Completo",
+    "description": "Burrito contundente de desayuno.",
+    "category": "DESAYUNO",
+    "prepMinutes": 20,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Tortilla",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Huevos revueltos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Queso",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Papas",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Salsa",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Cocina los huevos y las papas.",
+      "Rellena y enrolla.",
+      "Doralo en sarten."
+    ]
+  },
+  {
+    "id": "receta_bowl_yogur_chia_028",
+    "title": "Bowl de Yogur con Chia Granola y Miel",
+    "description": "Bowl fresco de desayuno.",
+    "category": "DESAYUNO",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Yogur",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Chia",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Granola",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Fruta",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Yogur en bowl, agrega chia.",
+      "Espera 5 min.",
+      "Anade fruta y granola."
+    ]
+  },
+  {
+    "id": "receta_panqueques_americanos_029",
+    "title": "Panqueques Esponjosos Americanos",
+    "description": "Panqueques estilo americano.",
+    "category": "DESAYUNO",
+    "prepMinutes": 18,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Harina",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Azucar",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Polvo de hornear",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Leche",
+        "qty": 0.75,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Mezcla ingredientes secos.",
+      "Agrega huevo y leche.",
+      "Cocina porciones hasta dorar."
+    ]
+  },
+  {
+    "id": "receta_tostadas_huevo_mollet_030",
+    "title": "Tostadas con Huevo Mollet y Palta",
+    "description": "Tostadas con palta y huevo.",
+    "category": "DESAYUNO",
+    "prepMinutes": 14,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Palta",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Cocina huevos 6 minutos.",
+      "Machaca la palta.",
+      "Unta sobre pan.",
+      "Coloca el huevo encima."
+    ]
+  },
+  {
+    "id": "receta_avena_tradicional_cremosa_031",
+    "title": "Avena Tradicional Cremosa",
+    "description": "Avena clasica cremosa.",
+    "category": "DESAYUNO",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche o agua",
+        "qty": 2,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Canela",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Calienta la leche en una olla a fuego medio.",
+      "Agrega la avena y remueve constantemente.",
+      "Cocina hasta que tome textura cremosa.",
+      "Endulza con miel y anade canela antes de servir."
+    ]
+  },
+  {
+    "id": "receta_avena_manzana_canela_032",
+    "title": "Avena con Manzana y Canela",
+    "description": "Avena con fruta y canela.",
+    "category": "DESAYUNO",
+    "prepMinutes": 15,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche",
+        "qty": 2,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Manzana picada",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Canela",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Azucar o miel",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Calienta la leche y agrega la avena.",
+      "Anade la manzana picada.",
+      "Incorpora la canela y el azucar o miel.",
+      "Cocina hasta que la manzana este blanda."
+    ]
+  },
+  {
+    "id": "receta_avena_platano_nueces_033",
+    "title": "Avena con Platano y Nueces",
+    "description": "Avena con topping de fruta y nueces.",
+    "category": "DESAYUNO",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Agua o leche",
+        "qty": 2,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Platano en rodajas",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Nueces picadas",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Cocina la avena en agua o leche hasta espesar.",
+      "Sirve y anade el platano y las nueces encima.",
+      "Endulza con miel si deseas."
+    ]
+  },
+  {
+    "id": "receta_avena_cacao_034",
+    "title": "Avena con Cacao",
+    "description": "Avena de chocolate.",
+    "category": "DESAYUNO",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche",
+        "qty": 2,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Cacao",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Miel",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": 1,
+        "unit": "pizca",
+        "group": "Especias"
+      },
+      {
+        "name": "Vainilla",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Cocina la avena con la leche a fuego medio.",
+      "Cuando este comenzando a espesar, agrega el cacao y mezcla muy bien.",
+      "Endulza con miel o azucar segun tu gusto.",
+      "Anade una pizca de sal y mezcla.",
+      "Cocina 1 minuto mas para integrar sabores."
+    ]
+  },
+  {
+    "id": "receta_pancakes_clasicos_035",
+    "title": "Pancakes Clasicos",
+    "description": "Pancakes basicos de siempre.",
+    "category": "DESAYUNO",
+    "prepMinutes": 18,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Harina",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Azucar",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Polvo de hornear",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Mezcla harina, azucar y polvo de hornear.",
+      "Anade huevo y leche; mezcla sin sobrebatir.",
+      "Calienta sarten con mantequilla.",
+      "Cocina porciones hasta dorar por ambos lados."
+    ]
+  },
+  {
+    "id": "receta_pancakes_avena_036",
+    "title": "Pancakes de Avena",
+    "description": "Pancakes hechos con avena.",
+    "category": "DESAYUNO",
+    "prepMinutes": 15,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena molida",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Leche",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Mezcla todos los ingredientes.",
+      "Deja reposar 5 minutos.",
+      "Cocina pequenas porciones en sarten a fuego medio.",
+      "Voltea cuando aparezcan burbujas."
+    ]
+  },
+  {
+    "id": "receta_panqueques_platano_037",
+    "title": "Panqueques de Platano",
+    "description": "Version de platano que funciona.",
+    "category": "DESAYUNO",
+    "prepMinutes": 15,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Platano maduro grande",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Avena molida",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Polvo de hornear",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Canela",
+        "qty": 1,
+        "unit": "pizca",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Tritura el platano hasta que quede cremoso.",
+      "Anade el huevo y mezcla.",
+      "Incorpora avena y polvo de hornear.",
+      "Reposa 5 minutos para espesar.",
+      "Cocina porciones pequenas 2 a 3 min por lado."
+    ]
+  },
+  {
+    "id": "receta_pollo_arroz_038",
+    "title": "Pollo Salteado con Arroz",
+    "description": "Almuerzo simple y sabroso.",
+    "category": "ALMUERZO",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo en cubos",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Arroz cocido",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Ajo picado",
+        "qty": 1,
+        "unit": "diente",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Calienta una sarten grande con aceite a fuego medio.",
+      "Anade cebolla y saltea 2 a 3 minutos.",
+      "Agrega el ajo y cocina 30 segundos.",
+      "Incorpora el pollo en cubos y cocina 6 a 8 minutos hasta dorar y cocer.",
+      "Condimenta con sal, pimienta y oregano al gusto.",
+      "Agrega el arroz cocido y mezcla bien.",
+      "Saltea 2 a 3 minutos para integrar sabores.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_tallarines_bolona_039",
+    "title": "Tallarines con Salsa Bolonesa Facil",
+    "description": "Pasta con salsa casera y carne.",
+    "category": "ALMUERZO",
+    "prepMinutes": 25,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Carne molida",
+        "qty": 150,
+        "unit": "g",
+        "group": "Carnes"
+      },
+      {
+        "name": "Salsa de tomate",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Cocina la pasta en agua con sal siguiendo el tiempo del envase. Cuela y reserva.",
+      "En una sarten, calienta el aceite a fuego medio.",
+      "Agrega la cebolla picada y cocinala 3 minutos.",
+      "Anade la carne molida y cocinala, separandola con una cuchara, hasta que este dorada (4 a 6 minutos).",
+      "Vierte la salsa de tomate y mezcla bien.",
+      "Condimenta con sal, pimienta y oregano.",
+      "Cocina todo junto 5 minutos para integrar sabores.",
+      "Mezcla la salsa con la pasta cocida y sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_lentejas_caseras_040",
+    "title": "Lentejas Caseras Sencillas",
+    "description": "Lentejas de olla faciles.",
+    "category": "ALMUERZO",
+    "prepMinutes": 35,
+    "costLevel": "LOW",
+    "servingsBase": 3,
+    "dietTags": [
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Lentejas",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zanahoria picada",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Ajo",
+        "qty": 1,
+        "unit": "diente",
+        "group": "Especias"
+      },
+      {
+        "name": "Agua",
+        "qty": 3,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Comino",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimenton",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Lava las lentejas bajo agua fria.",
+      "En una olla, calienta una cucharadita de aceite.",
+      "Sofrie la cebolla picada, el ajo y la zanahoria durante 3 minutos.",
+      "Agrega las lentejas y mezcla con las verduras.",
+      "Anade las 3 tazas de agua.",
+      "Cocina a fuego medio durante 25 a 30 minutos, revolviendo ocasionalmente.",
+      "Cuando esten blandas, agrega sal, comino y pimenton al gusto.",
+      "Cocina 3 minutos mas para integrar sabores.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_pure_carne_041",
+    "title": "Pure de Papas con Carne Molida",
+    "description": "Almuerzo clasico y rendidor.",
+    "category": "ALMUERZO",
+    "prepMinutes": 30,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Papas",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Leche",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Carne molida",
+        "qty": 150,
+        "unit": "g",
+        "group": "Carnes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Pela las papas y cortalas en trozos medianos.",
+      "Ponlas en una olla con agua fria y una pizca de sal.",
+      "Cocina 15 a 20 minutos hasta que esten muy blandas.",
+      "Escurre el agua y tritura las papas con un tenedor o prensa.",
+      "Agrega la leche y mantequilla, mezcla hasta obtener un pure suave.",
+      "En una sarten, cocina la carne molida 6 a 8 minutos, separandola con una cuchara.",
+      "Sazona con sal y pimienta.",
+      "Sirve el pure en un plato y coloca la carne encima."
+    ]
+  },
+  {
+    "id": "receta_pollo_plancha_ensalada_042",
+    "title": "Pollo a la Plancha con Ensalada",
+    "description": "Plato ligero y simple.",
+    "category": "ALMUERZO",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Jugo de limon",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Lechuga",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Tomate",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Pepino",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Corta la pechuga para que quede de grosor parejo.",
+      "Sazona con sal, pimienta y unas gotas de limon.",
+      "Calienta una sarten a fuego medio y cocina el pollo 4 a 5 min por lado, hasta dorar.",
+      "Corta el pollo en tiras o sirve entero.",
+      "Lava y corta la lechuga, el tomate y el pepino.",
+      "Mezcla las verduras y sirvelas junto al pollo.",
+      "Puedes agregar un chorrito de limon extra si quieres."
+    ]
+  },
+  {
+    "id": "receta_arroz_atun_043",
+    "title": "Arroz con Atun",
+    "description": "Receta rapida y practica.",
+    "category": "ALMUERZO",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Arroz cocido",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Atun",
+        "qty": 1,
+        "unit": "lata",
+        "group": "Carnes"
+      },
+      {
+        "name": "Mayonesa",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Choclo",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Jugo de limon",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Coloca el arroz cocido en un bowl grande.",
+      "Abre la lata de atun, escurrelo y agregalo al arroz.",
+      "Incorpora el choclo.",
+      "Anade una cucharadita de limon y mezcla.",
+      "Si quieres mas cremosidad, agrega la mayonesa.",
+      "Mezcla todo suavemente hasta integrar.",
+      "Puedes servirlo frio o calentarlo 1 a 2 minutos en microondas."
+    ]
+  },
+  {
+    "id": "receta_sopa_verduras_044",
+    "title": "Sopa de Verduras Casera",
+    "description": "Sopa calentita de verduras.",
+    "category": "ALMUERZO",
+    "prepMinutes": 30,
+    "costLevel": "LOW",
+    "servingsBase": 3,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Zanahoria",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Papa",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Cebolla",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zapallo",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "l",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Pela y corta todas las verduras en cubos medianos.",
+      "Colocalas en una olla con el litro de agua.",
+      "Lleva a ebullicion y cocina 20 a 25 minutos, hasta que todas las verduras esten blandas.",
+      "Agrega sal y oregano al gusto.",
+      "Revuelve y cocina 2 minutos mas.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_carbonada_045",
+    "title": "Carbonada Rapida",
+    "description": "Guiso tradicional facil.",
+    "category": "ALMUERZO",
+    "prepMinutes": 30,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Carne picada",
+        "qty": 150,
+        "unit": "g",
+        "group": "Carnes"
+      },
+      {
+        "name": "Papa",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zanahoria",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zapallo",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Pela y corta todas las verduras en cubos pequenos.",
+      "En una olla, sofrie la carne picada 3 a 4 minutos.",
+      "Anade las verduras y mezcla bien.",
+      "Agrega la taza de agua.",
+      "Cocina 20 minutos a fuego medio, hasta que las verduras esten blandas.",
+      "Sazona con sal y oregano.",
+      "Cocina 2 minutos extra para integrar sabores."
+    ]
+  },
+  {
+    "id": "receta_tortilla_papas_046",
+    "title": "Tortilla de Papas Expres",
+    "description": "Tortilla rapida de sarten.",
+    "category": "ALMUERZO",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Papas cocidas en cubos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Si las papas no estan cocidas, hiervelas 12 a 15 minutos y cortalas en cubos.",
+      "En un bowl, bate ligeramente los huevos con sal y pimienta.",
+      "Anade las papas y mezcla suavemente.",
+      "Calienta una sarten antiadherente con una cucharadita de aceite.",
+      "Vierte la mezcla y cocina 3 a 4 minutos a fuego medio.",
+      "Da vuelta la tortilla usando un plato y cocina 2 minutos mas.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_arroz_frito_047",
+    "title": "Arroz Frito con Verduras",
+    "description": "Arroz salteado estilo casero.",
+    "category": "ALMUERZO",
+    "prepMinutes": 15,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Arroz cocido",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Verduras picadas",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Salsa de soya",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Calienta una sarten grande o wok con una cucharadita de aceite.",
+      "Anade las verduras y saltealas 2 a 3 minutos.",
+      "Agrega el arroz cocido y mezcla bien.",
+      "Haz un espacio al centro de la sarten y rompe el huevo ahi.",
+      "Revuelve el huevo hasta que este cocido, luego mezclalo con el arroz.",
+      "Agrega la salsa de soya y mezcla todo 1 minuto mas.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_pollo_curry_048",
+    "title": "Pollo al Curry Facil",
+    "description": "Pollo cremoso con curry.",
+    "category": "ALMUERZO",
+    "prepMinutes": 18,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pechuga en cubos",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Curry",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Crema o leche de coco",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Calienta una sarten con un chorrito de aceite.",
+      "Sofrie la cebolla 2 minutos.",
+      "Agrega el pollo y cocina hasta dorar, 5 a 6 minutos.",
+      "Anade el curry y mezcla para cubrir el pollo.",
+      "Vierte la crema o leche de coco.",
+      "Cocina 5 minutos a fuego medio-bajo hasta espesar.",
+      "Agrega sal al gusto y sirve."
+    ]
+  },
+  {
+    "id": "receta_pasta_pesto_049",
+    "title": "Pasta al Pesto Casero",
+    "description": "Pasta con pesto rapido.",
+    "category": "ALMUERZO",
+    "prepMinutes": 20,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Albahaca",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Ajo",
+        "qty": 1,
+        "unit": "diente",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Cocina la pasta en agua con sal segun las instrucciones del envase.",
+      "En una licuadora o procesador, coloca la albahaca, el ajo, el aceite y una pizca de sal.",
+      "Procesa hasta obtener una pasta verde suave (pesto).",
+      "Cuela la pasta y mezclala con el pesto inmediatamente para que absorba el sabor.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_garbanzos_guiso_050",
+    "title": "Guiso de Garbanzos",
+    "description": "Guiso simple de legumbres.",
+    "category": "ALMUERZO",
+    "prepMinutes": 15,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Garbanzos cocidos",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Tomate picado",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimenton",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Calienta una sarten o olla pequena con una cucharadita de aceite.",
+      "Sofrie la cebolla 2 minutos.",
+      "Agrega el tomate y cocina 2 a 3 minutos mas.",
+      "Anade los garbanzos y mezcla.",
+      "Condimenta con sal y pimenton.",
+      "Cocina 5 a 7 minutos hasta que los sabores se integren.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_salpicon_pollo_051",
+    "title": "Salpicon de Pollo",
+    "description": "Ensalada fresca con pollo.",
+    "category": "ALMUERZO",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Pollo desmenuzado",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Carnes"
+      },
+      {
+        "name": "Tomate picado",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Lechuga picada",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Choclo",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Jugo de limon",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Coloca el pollo desmenuzado en un bowl grande.",
+      "Agrega el tomate picado, la lechuga y el choclo.",
+      "En un vaso mezcla el jugo de limon, el aceite y una pizca de sal.",
+      "Vierte el alino sobre los ingredientes del bowl.",
+      "Revuelve suavemente hasta integrar todo.",
+      "Sirve inmediatamente para mantener la frescura."
+    ]
+  },
+  {
+    "id": "receta_papas_horno_052",
+    "title": "Papas al Horno con Especias",
+    "description": "Papas doradas al horno.",
+    "category": "ALMUERZO",
+    "prepMinutes": 40,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Papas medianas",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Oregano",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimenton",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 200C.",
+      "Lava bien las papas y cortalas en gajos.",
+      "Coloca las papas en un bowl y agrega el aceite, el oregano, el pimenton y la sal.",
+      "Mezcla para cubrir bien todos los gajos con las especias.",
+      "Pon las papas en una bandeja de horno, en una sola capa.",
+      "Hornea por 30 minutos o hasta que esten doradas y crujientes.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_chuletas_plancha_053",
+    "title": "Chuletas a la Plancha con Arroz",
+    "description": "Chuleta dorada con arroz.",
+    "category": "ALMUERZO",
+    "prepMinutes": 15,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Chuleta de cerdo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Arroz cocido",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Seca la chuleta con papel absorbente para que dore mejor.",
+      "Espolvorea sal y pimienta por ambos lados.",
+      "Calienta una sarten a fuego medio-alto.",
+      "Coloca la chuleta en la sarten y cocina 3 a 4 minutos por cada lado, hasta que este bien dorada y cocida al centro.",
+      "Sirve la chuleta junto con el arroz cocido."
+    ]
+  },
+  {
+    "id": "receta_cazuela_simple_054",
+    "title": "Cazuela Simple",
+    "description": "Cazuela casera facil.",
+    "category": "ALMUERZO",
+    "prepMinutes": 35,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Presa de pollo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Papa pelada",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zapallo",
+        "qty": 1,
+        "unit": "trozo",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zanahoria pelada",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Fideos",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "l",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "En una olla grande coloca el pollo y cubrelo con el litro de agua.",
+      "Agrega la sal y cocina 10 minutos desde que comience a hervir.",
+      "Corta la papa, el zapallo y la zanahoria en trozos medianos.",
+      "Anade todas las verduras a la olla y cocina 15 minutos mas.",
+      "Agrega los fideos y cocina otros 10 minutos o hasta que esten blandos.",
+      "Rectifica la sal y sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_pollo_mostaza_055",
+    "title": "Pollo a la Mostaza",
+    "description": "Pollo dorado con salsa cremosa.",
+    "category": "ALMUERZO",
+    "prepMinutes": 18,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Mostaza",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Crema o crema vegetal",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Corta la pechuga en dos filetes para que se cocine mas rapido.",
+      "Sazona ambos lados con sal y pimienta.",
+      "Calienta una sarten con el aceite a fuego medio.",
+      "Coloca el pollo y cocina 4 a 5 minutos por lado hasta dorar.",
+      "Baja el fuego y anade la mostaza y la crema directamente a la sarten.",
+      "Mezcla bien y cocina 2 minutos mas para que la salsa espese y cubra el pollo.",
+      "Sirve con arroz, pasta o ensalada."
+    ]
+  },
+  {
+    "id": "receta_salmon_plancha_056",
+    "title": "Salmon a la Plancha con Limon",
+    "description": "Salmon dorado en sarten.",
+    "category": "ALMUERZO",
+    "prepMinutes": 15,
+    "costLevel": "HIGH",
+    "servingsBase": 1,
+    "dietTags": [
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Filete de salmon",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Jugo de limon",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Sazona el salmon por ambos lados con sal y pimienta.",
+      "Calienta una sarten a fuego medio y agrega el aceite.",
+      "Coloca el salmon con la piel hacia abajo (si tiene).",
+      "Cocina 3 a 4 minutos sin moverlo para que se dore bien.",
+      "Da vuelta el filete y cocina 2 a 3 minutos mas.",
+      "Retira del fuego y exprime el limon por encima.",
+      "Sirve inmediatamente."
+    ]
+  },
+  {
+    "id": "receta_pasta_tomate_057",
+    "title": "Pasta con Salsa de Tomate Casera",
+    "description": "Pasta con salsa simple.",
+    "category": "ALMUERZO",
+    "prepMinutes": 22,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Tomate triturado",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Ajo picado",
+        "qty": 1,
+        "unit": "diente",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Cocina la pasta segun las instrucciones del paquete y reserva.",
+      "En una sarten, calienta el aceite a fuego medio.",
+      "Anade el ajo picado y cocinalo 30 segundos, sin dejar que se queme.",
+      "Agrega el tomate triturado, la sal y el oregano.",
+      "Cocina la salsa durante 10 minutos para que espese y tome sabor.",
+      "Mezcla la salsa con la pasta cocida.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_sandwich_pollo_058",
+    "title": "Sandwich de Pollo y Palta",
+    "description": "Sandwich rapido y llenador.",
+    "category": "ALMUERZO",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Pollo desmenuzado",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Carnes"
+      },
+      {
+        "name": "Palta",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Limon",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Coloca el pollo desmenuzado en un bowl pequeno.",
+      "Machaca la palta con un tenedor y agrega una pizca de sal y unas gotas de limon.",
+      "Abre el pan por la mitad.",
+      "Unta la palta en una de las mitades.",
+      "Coloca el pollo encima y tapa el sandwich.",
+      "Sirve inmediatamente."
+    ]
+  },
+  {
+    "id": "receta_sopa_tomate_059",
+    "title": "Sopa de Tomate Rapida",
+    "description": "Sopa casera express.",
+    "category": "ALMUERZO",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomate triturado",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Ajo picado",
+        "qty": 0.5,
+        "unit": "diente",
+        "group": "Especias"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "En una olla pequena, calienta el aceite.",
+      "Agrega el ajo y cocinalo solo 20 segundos.",
+      "Anade el tomate triturado y el agua.",
+      "Revuelve y agrega sal y oregano.",
+      "Cocina 8 a 10 minutos a fuego medio.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_omelette_jamon_060",
+    "title": "Omelette de Jamon y Queso",
+    "description": "Omelette clasico y rapido.",
+    "category": "ALMUERZO",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Jamon picado",
+        "qty": 2,
+        "unit": "lamina",
+        "group": "Carnes"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "En un bowl, bate los huevos con una pizca de sal y pimienta.",
+      "Calienta el aceite en una sarten a fuego medio.",
+      "Vierte los huevos y deja que cuajen un poco.",
+      "Agrega el jamon y el queso por encima.",
+      "Dobla el omelette con cuidado y cocina 1 minuto mas.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_tostadas_huevo_061",
+    "title": "Tostadas con Huevo Revuelto",
+    "description": "Tostadas con huevo cremoso.",
+    "category": "ALMUERZO",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "rebanada",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Tuesta el pan.",
+      "En un bowl, bate los huevos con una pizca de sal.",
+      "Calienta la mantequilla en una sarten y agrega los huevos.",
+      "Revuelve lentamente a fuego bajo hasta que queden cremosos.",
+      "Coloca los huevos sobre las tostadas y sirve."
+    ]
+  },
+  {
+    "id": "receta_sandwich_atun_065",
+    "title": "Sandwich de Atun",
+    "description": "Sandwich simple de atun.",
+    "category": "ALMUERZO",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "rebanada",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Atun escurrido",
+        "qty": 0.5,
+        "unit": "lata",
+        "group": "Carnes"
+      },
+      {
+        "name": "Mayonesa",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Lechuga",
+        "qty": 1,
+        "unit": "hoja",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Mezcla el atun con la mayonesa.",
+      "Coloca la lechuga en una rebanada de pan.",
+      "Anade la mezcla de atun encima.",
+      "Cierra con la otra rebanada."
+    ]
+  },
+  {
+    "id": "receta_sopa_pollo_066",
+    "title": "Sopa de Pollo Rapida",
+    "description": "Sopa rapida con fideos.",
+    "category": "ALMUERZO",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Pollo desmenuzado",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Carnes"
+      },
+      {
+        "name": "Fideos",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Calienta el agua en una olla pequena.",
+      "Agrega el pollo y los fideos.",
+      "Anade sal y oregano.",
+      "Cocina 8 a 10 minutos hasta que los fideos esten blandos.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_pan_ricotta_tomate_067",
+    "title": "Pan con Ricotta y Tomate",
+    "description": "Pan tostado con ricotta.",
+    "category": "ALMUERZO",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "rebanada",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Ricotta",
+        "qty": 3,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Tomate en rodajas",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Tuesta el pan.",
+      "Unta la ricotta en cada rebanada.",
+      "Coloca las rodajas de tomate encima.",
+      "Sazona con sal y oregano."
+    ]
+  },
+  {
+    "id": "receta_huevo_duro_ensalada_068",
+    "title": "Huevos Duros con Ensalada",
+    "description": "Ensalada con huevo duro.",
+    "category": "ALMUERZO",
+    "prepMinutes": 15,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Lechuga",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Tomate",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Limon",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Pon los huevos en una olla y cubrelos con agua.",
+      "Cocina 10 minutos desde que hierva.",
+      "Pela y corta los huevos en mitades.",
+      "Prepara una ensalada con la lechuga y el tomate.",
+      "Alina con aceite, limon y sal.",
+      "Agrega los huevos encima."
+    ]
+  },
+  {
+    "id": "receta_crema_zapallo_070",
+    "title": "Crema de Zapallo Facil",
+    "description": "Crema suave de zapallo.",
+    "category": "ALMUERZO",
+    "prepMinutes": 18,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Zapallo en cubos",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Leche",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Agua",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Coloca el zapallo en una olla con el agua.",
+      "Cocina 12 a 15 minutos hasta que este blando.",
+      "Tritura con un mixer o tenedor.",
+      "Agrega la leche y mezcla.",
+      "Anade sal y calienta 2 minutos mas."
+    ]
+  },
+  {
+    "id": "receta_sopa_huevo_073",
+    "title": "Sopa de Huevo",
+    "description": "Sopa ligera de huevo.",
+    "category": "ALMUERZO",
+    "prepMinutes": 7,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Perejil",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Verduras/Frutas"
+      }
+    ],
+    "steps": [
+      "Hierve el agua con la sal.",
+      "Bate el huevo en un vaso.",
+      "Vierte el huevo lentamente en el agua hirviendo mientras revuelves.",
+      "Cocina 1 minuto mas.",
+      "Agrega perejil y sirve."
+    ]
+  },
+  {
+    "id": "receta_pan_mantequilla_082",
+    "title": "Pan con Mantequilla y Jamon",
+    "description": "Pan tostado con jamon.",
+    "category": "ALMUERZO",
+    "prepMinutes": 5,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "rebanada",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Jamon",
+        "qty": 1,
+        "unit": "lamina",
+        "group": "Carnes"
+      }
+    ],
+    "steps": [
+      "Tuesta el pan.",
+      "Unta mantequilla mientras aun esta caliente.",
+      "Coloca el jamon encima y sirve."
+    ]
+  },
+  {
+    "id": "receta_charquican_casero_088",
+    "title": "Charquican Facil para 1",
+    "description": "Charquican casero tradicional.",
+    "category": "ALMUERZO",
+    "prepMinutes": 30,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Papa grande",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zapallo en cubos",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Choclo",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zanahoria picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Carne molida",
+        "qty": 150,
+        "unit": "g",
+        "group": "Carnes"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Comino",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimenton",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "En una olla, sofrie la cebolla 2 min con una cucharadita de aceite.",
+      "Agrega la carne molida y cocina 5 min revolviendo.",
+      "Anade papa, zapallo, zanahoria y choclo. Mezcla.",
+      "Agrega el agua, sal, comino y pimenton.",
+      "Cocina a fuego medio 20 min.",
+      "Cuando todo este blando, aplasta parcialmente con una cuchara.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_tomatican_089",
+    "title": "Tomatican Casero",
+    "description": "Tomatican rapido y sabroso.",
+    "category": "ALMUERZO",
+    "prepMinutes": 18,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Carne molida",
+        "qty": 150,
+        "unit": "g",
+        "group": "Carnes"
+      },
+      {
+        "name": "Tomate picado",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Cebolla en tiras",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Choclo",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "En sarten, calienta aceite y sofrie la cebolla 3 min.",
+      "Agrega la carne y cocina hasta dorar.",
+      "Anade el tomate y el choclo.",
+      "Condimenta con sal y oregano.",
+      "Cocina tapado 10 min."
+    ]
+  },
+  {
+    "id": "receta_papas_coctel_090",
+    "title": "Papas Doradas al Merken",
+    "description": "Papas al horno con merken.",
+    "category": "ALMUERZO",
+    "prepMinutes": 35,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Papas en cubos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Merken",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 200C.",
+      "Mezcla las papas con aceite, merken y sal.",
+      "Ponlas en bandeja separadas.",
+      "Hornea 30 minutos o hasta dorar."
+    ]
+  },
+  {
+    "id": "receta_pescado_mantequilla_091",
+    "title": "Filete de Pescado a la Mantequilla",
+    "description": "Pescado dorado con perejil.",
+    "category": "ALMUERZO",
+    "prepMinutes": 10,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Filete de merluza o reineta",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Perejil picado",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Sazona el pescado con sal y pimienta.",
+      "En sarten caliente, derrite la mantequilla.",
+      "Cocina el pescado 3 min por lado.",
+      "Agrega perejil al final y sirve."
+    ]
+  },
+  {
+    "id": "receta_reineta_tomate_093",
+    "title": "Reineta al Horno con Tomate",
+    "description": "Pescado al horno con verduras.",
+    "category": "ALMUERZO",
+    "prepMinutes": 20,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Filete de reineta",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Tomate en rodajas",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Cebolla en pluma",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Precalienta horno a 200C.",
+      "Coloca la reineta en bandeja.",
+      "Agrega tomate, cebolla, aceite, sal y oregano.",
+      "Hornea 15 min."
+    ]
+  },
+  {
+    "id": "receta_bowl_quinoa_098",
+    "title": "Bowl de Quinoa con Verduras y Pollo",
+    "description": "Cena healthy completa.",
+    "category": "CENA",
+    "prepMinutes": 15,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Quinoa cocida",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Pollo en tiras",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Carnes"
+      },
+      {
+        "name": "Brocoli cocido",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zanahoria rallada",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite de oliva",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Limon",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Cocina el pollo 5 min en sarten.",
+      "Arma el bowl: quinoa, brocoli, zanahoria y pollo.",
+      "Alina con aceite, limon y sal."
+    ]
+  },
+  {
+    "id": "receta_bowl_garbanzos_101",
+    "title": "Bowl de Garbanzos y Palta",
+    "description": "Bowl vegetal rapido.",
+    "category": "CENA",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Garbanzos cocidos",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Palta",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Tomate picado",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Limon",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Coloca garbanzos en un bowl.",
+      "Anade tomate y palta en cubos.",
+      "Alina con limon, aceite y sal."
+    ]
+  },
+  {
+    "id": "receta_salmon_horno_102",
+    "title": "Salmon al Horno con Espinaca",
+    "description": "Salmon al horno con espinaca.",
+    "category": "CENA",
+    "prepMinutes": 18,
+    "costLevel": "HIGH",
+    "servingsBase": 1,
+    "dietTags": [
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Filete de salmon",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 200C.",
+      "Pon el salmon en bandeja y salpimenta.",
+      "Al costado agrega la espinaca con aceite.",
+      "Hornea 12 a 15 min."
+    ]
+  },
+  {
+    "id": "receta_zapallo_spaghetti_103",
+    "title": "Fideos de Zapallo Italiano con Pollo",
+    "description": "Cena ligera tipo pasta.",
+    "category": "CENA",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Zapallo italiano",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Pollo en cubos",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Carnes"
+      },
+      {
+        "name": "Salsa de tomate",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Saltea el pollo 5 min.",
+      "Agrega el zapallo italiano y cocina 2 min.",
+      "Anade la salsa de tomate.",
+      "Cocina 3 min y sirve."
+    ]
+  },
+  {
+    "id": "receta_tofu_salteado_105",
+    "title": "Tofu Salteado con Verduras",
+    "description": "Cena vegetariana salteada.",
+    "category": "CENA",
+    "prepMinutes": 10,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Tofu en cubos",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Zanahoria picada",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Pimiento picado",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Salsa de soya",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Saltea el tofu 3 min.",
+      "Agrega verduras y cocina 5 min.",
+      "Anade un chorrito de salsa de soya.",
+      "Mezcla y sirve."
+    ]
+  },
+  {
+    "id": "receta_shirataki_106",
+    "title": "Fideos Shirataki Salteados",
+    "description": "Fideos bajos en carbohidratos.",
+    "category": "CENA",
+    "prepMinutes": 10,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [
+      "keto",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Fideos shirataki",
+        "qty": 1,
+        "unit": "paquete",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Champinones picados",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Salsa de soya",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Lava y escurre los shirataki.",
+      "Saltea champinones 2 min.",
+      "Agrega espinaca y fideos.",
+      "Anade salsa de soya y mezcla 2 min."
+    ]
+  },
+  {
+    "id": "receta_budin_verduras_107",
+    "title": "Budin de Verduras Individual",
+    "description": "Budin saludable al horno.",
+    "category": "CENA",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Zapallo italiano rallado",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Zanahoria rallada",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla todo en un bowl.",
+      "Vierte en molde pequeno.",
+      "Hornea 15 a 18 min a 180C."
+    ]
+  },
+  {
+    "id": "receta_chaparritas_caseras_108",
+    "title": "Chaparritas al Horno",
+    "description": "Once elaborada al horno.",
+    "category": "SNACK",
+    "prepMinutes": 20,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Masa hojaldrada",
+        "qty": 2,
+        "unit": "lamina",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Vienesa",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Huevo",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Corta la masa en rectangulos.",
+      "Coloca una vienesa y queso.",
+      "Enrolla y cierra bien.",
+      "Pincela con huevo.",
+      "Hornea 15 min a 200C."
+    ]
+  },
+  {
+    "id": "receta_pizza_omelette_113",
+    "title": "Omelette Pizza",
+    "description": "Omelette estilo pizza.",
+    "category": "SNACK",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Salsa de tomate",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Bate los huevos y cocina 2 min a fuego bajo.",
+      "Agrega salsa, queso y oregano.",
+      "Tapa y cocina 2 min mas."
+    ]
+  },
+  {
+    "id": "receta_sopa_crema_papa_118",
+    "title": "Crema de Papa y Puerro",
+    "description": "Crema casera de papa.",
+    "category": "CENA",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Papa en cubos",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Puerro picado",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Leche",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "En una olla, derrite la mantequilla a fuego medio.",
+      "Agrega el puerro y cocina 3 minutos.",
+      "Anade la papa y mezcla.",
+      "Agrega el agua y cocina 12 a 15 minutos.",
+      "Tritura con minipimer o pisa muy bien.",
+      "Anade la leche, sal y pimienta.",
+      "Calienta 2 a 3 minutos mas y sirve."
+    ]
+  },
+  {
+    "id": "receta_pescado_limon_horno_119",
+    "title": "Pescado al Horno con Limon y Ajo",
+    "description": "Pescado al horno facil.",
+    "category": "CENA",
+    "prepMinutes": 18,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Filete de merluza o reineta",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Ajo picado",
+        "qty": 1,
+        "unit": "diente",
+        "group": "Especias"
+      },
+      {
+        "name": "Limon en rodajas",
+        "qty": 3,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 200C.",
+      "Coloca el pescado en una bandeja.",
+      "Frota el aceite, ajo, sal y pimienta por encima.",
+      "Pon las rodajas de limon sobre el filete.",
+      "Hornea 12 a 15 minutos hasta que este firme y opaco."
+    ]
+  },
+  {
+    "id": "receta_guiso_zapallo_carne_120",
+    "title": "Guiso de Zapallo con Carne",
+    "description": "Guiso casero con carne.",
+    "category": "CENA",
+    "prepMinutes": 20,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Zapallo en cubos",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Carne molida",
+        "qty": 150,
+        "unit": "g",
+        "group": "Carnes"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Comino",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Sofrie la cebolla con el aceite 2 a 3 minutos.",
+      "Agrega la carne y cocina hasta dorar.",
+      "Anade el zapallo y mezcla.",
+      "Incorpora el agua, sal y comino.",
+      "Cocina 15 a 18 minutos.",
+      "Aplasta ligeramente para espesar."
+    ]
+  },
+  {
+    "id": "receta_revoltillo_camaron_121",
+    "title": "Revuelto de Camarones con Verduras",
+    "description": "Revuelto rapido con camarones.",
+    "category": "CENA",
+    "prepMinutes": 12,
+    "costLevel": "HIGH",
+    "servingsBase": 1,
+    "dietTags": [],
+    "ingredients": [
+      {
+        "name": "Camarones pelados",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Carnes"
+      },
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.25,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Pimiento picado",
+        "qty": 0.25,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Calienta el aceite en una sarten.",
+      "Sofrie la cebolla y pimiento 3 minutos.",
+      "Agrega los camarones y cocina 2 minutos.",
+      "Bate los huevos con sal y pimienta.",
+      "Vierte sobre la sarten y cocina revolviendo hasta cuajar."
+    ]
+  },
+  {
+    "id": "receta_tortilla_champinones_122",
+    "title": "Tortilla de Champinones",
+    "description": "Tortilla de champinones casera.",
+    "category": "CENA",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Champinones laminados",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Cebolla picada",
+        "qty": 0.25,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Sofrie los champinones y cebolla 3 a 4 min.",
+      "Bate los huevos con sal y pimienta.",
+      "Agrega los huevos a la sarten.",
+      "Cocina 3 min por un lado, voltea y cocina 2 min mas."
+    ]
+  },
+  {
+    "id": "receta_omelette_espinaca_124",
+    "title": "Omelette de Espinaca y Queso",
+    "description": "Omelette verde y suave.",
+    "category": "CENA",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Espinaca picada",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Bate los huevos con sal y pimienta.",
+      "Sofrie la espinaca 1 minuto.",
+      "Agrega los huevos a la sarten.",
+      "Anade queso, dobla y cocina 1 a 2 min mas."
+    ]
+  },
+  {
+    "id": "receta_sopa_cebolla_125",
+    "title": "Sopa Casera de Cebolla",
+    "description": "Sopa de cebolla estilo casero.",
+    "category": "CENA",
+    "prepMinutes": 22,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Cebolla en tiras",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Mantequilla",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Agua",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Caldo casero",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Derrite la mantequilla en olla.",
+      "Cocina la cebolla 8 a 10 minutos hasta dorar.",
+      "Anade el agua y el caldo.",
+      "Cocina 10 minutos.",
+      "Sazona y sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_pan_plano_casero_126",
+    "title": "Pan Plano Casero",
+    "description": "Pan rapido para acompanar.",
+    "category": "CENA",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Harina",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Agua tibia",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla harina y sal.",
+      "Anade agua y aceite; amasa 2 minutos.",
+      "Divide en 2 bollitos y aplasta con las manos.",
+      "Cocina en sarten 2 a 3 min por lado."
+    ]
+  },
+  {
+    "id": "receta_salmon_cocotte_127",
+    "title": "Salmon Cocotte",
+    "description": "Salmon al vapor en sarten.",
+    "category": "CENA",
+    "prepMinutes": 14,
+    "costLevel": "HIGH",
+    "servingsBase": 1,
+    "dietTags": [
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Filete de salmon",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Carnes"
+      },
+      {
+        "name": "Cebolla en tiras",
+        "qty": 0.25,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Limon en rodajas",
+        "qty": 3,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Agua",
+        "qty": 3,
+        "unit": "cda",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Coloca el salmon en una sarten pequena.",
+      "Agrega cebolla, limon y agua alrededor.",
+      "Tapa la sarten.",
+      "Cocina a fuego bajo 10 a 12 minutos.",
+      "Sirve caliente."
+    ]
+  },
+  {
+    "id": "receta_chips_zanahoria_128",
+    "title": "Chips de Zanahoria al Horno",
+    "description": "Snack crujiente y especiado.",
+    "category": "SNACK",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Zanahorias grandes",
+        "qty": 2,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Paprika",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Queso rallado fino",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 180C.",
+      "Corta las zanahorias en laminas finas.",
+      "Mezclalas con aceite, sal, paprika y oregano.",
+      "Ponlas en una bandeja sin encimar.",
+      "Hornea 12 a 15 min hasta que esten crujientes.",
+      "Si quieres, espolvorea queso al sacarlas."
+    ]
+  },
+  {
+    "id": "receta_garbanzos_crujientes_129",
+    "title": "Garbanzos Crujientes con Especias",
+    "description": "Snack salado y crocante.",
+    "category": "SNACK",
+    "prepMinutes": 30,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Garbanzos cocidos",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Curcuma",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Paprika",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Ajo en polvo",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Semillas de sesamo",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 200C.",
+      "Seca bien los garbanzos.",
+      "Mezclalos con aceite y las especias.",
+      "Hornealos 25 min moviendo la bandeja a mitad de tiempo.",
+      "Espolvorea sesamo si quieres."
+    ]
+  },
+  {
+    "id": "receta_pan_plano_snack_130",
+    "title": "Crackers Caseras con Semillas",
+    "description": "Crackers crocantes hechas en casa.",
+    "category": "SNACK",
+    "prepMinutes": 18,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Harina",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Agua",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Semillas de sesamo",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Semillas de chia",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Semillas de linaza",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Mezcla harina, sal y todas las semillas.",
+      "Agrega el agua y el aceite; forma una masa.",
+      "Estira muy delgado.",
+      "Corta en cuadrados o triangulos.",
+      "Hornea 10 a 12 min a 200C hasta dorar."
+    ]
+  },
+  {
+    "id": "receta_barras_avena_131",
+    "title": "Barras de Avena con Nueces y Fruta",
+    "description": "Barras dulces y practicas.",
+    "category": "SNACK",
+    "prepMinutes": 22,
+    "costLevel": "LOW",
+    "servingsBase": 4,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Platano maduro",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Miel",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Nueces picadas",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Pasas o cranberries",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Canela",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Pisa bien el platano.",
+      "Mezcla con avena, miel, nueces y canela.",
+      "Anade pasas si quieres.",
+      "Aplana la mezcla sobre una bandeja.",
+      "Hornea 18 min a 180C.",
+      "Enfria y corta en barras."
+    ]
+  },
+  {
+    "id": "receta_crocantes_manzana_132",
+    "title": "Chips de Manzana con Canela",
+    "description": "Snack dulce al horno.",
+    "category": "SNACK",
+    "prepMinutes": 70,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa"
+    ],
+    "ingredients": [
+      {
+        "name": "Manzana",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Canela",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Azucar rubia",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Corta la manzana en rodajas finas.",
+      "Mezcla canela y azucar (si la usas).",
+      "Espolvorea sobre las rodajas.",
+      "Hornea a 110C por 1 hora, girando a mitad."
+    ]
+  },
+  {
+    "id": "receta_chocolate_frito_133",
+    "title": "Bocados de Platano con Chocolate y Nueces",
+    "description": "Bocado dulce rapido.",
+    "category": "SNACK",
+    "prepMinutes": 20,
+    "costLevel": "MID",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Platano",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Chocolate amargo",
+        "qty": 40,
+        "unit": "g",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Nueces picadas",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Corta el platano en rodajas de 2 cm.",
+      "Derrite el chocolate en microondas o bano Maria.",
+      "Moja cada rodaja en chocolate.",
+      "Coloca nueces encima.",
+      "Refrigera 10 a 15 minutos."
+    ]
+  },
+  {
+    "id": "receta_mix_semillas_134",
+    "title": "Mix de Semillas Tostadas con Aji",
+    "description": "Mix salado para picar.",
+    "category": "SNACK",
+    "prepMinutes": 6,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa",
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Pepas de zapallo",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Semillas de girasol",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Linaza",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sesamo",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Aji en polvo",
+        "qty": 1,
+        "unit": "pizca",
+        "group": "Especias"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Tuesta todo en sarten a fuego medio 3 a 4 min.",
+      "Anade sal y aji.",
+      "Enfria antes de comer."
+    ]
+  },
+  {
+    "id": "receta_tomates_cherry_asados_135",
+    "title": "Tomates Cherry Asados con Ajo",
+    "description": "Snack salado al horno.",
+    "category": "SNACK",
+    "prepMinutes": 22,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa",
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomates cherry",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Ajo en polvo",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Pimienta",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla tomates con aceite, ajo, sal y pimienta.",
+      "Hornea 15 a 20 min a 200C."
+    ]
+  },
+  {
+    "id": "receta_popcorn_casero_136",
+    "title": "Popcorn Casero Saborizado",
+    "description": "Cabritas caseras con sabor.",
+    "category": "SNACK",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa",
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Maiz para popcorn",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.25,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Merken",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Paprika",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Oregano",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Especias"
+      },
+      {
+        "name": "Queso rallado fino",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Lacteos"
+      }
+    ],
+    "steps": [
+      "Pon aceite en olla a fuego medio.",
+      "Agrega maiz, tapa y deja explotar.",
+      "Sazona con lo que quieras mientras esta tibio."
+    ]
+  },
+  {
+    "id": "receta_hummus_basico_137",
+    "title": "Hummus Casero con Sesamo",
+    "description": "Dip de garbanzo facil.",
+    "category": "SNACK",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegan",
+      "sin_lactosa",
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Garbanzos cocidos",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Sesamo tostado",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Jugo de limon",
+        "qty": 0.5,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": 1,
+        "unit": "pizca",
+        "group": "Especias"
+      },
+      {
+        "name": "Agua",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Otros"
+      }
+    ],
+    "steps": [
+      "Pisa los garbanzos.",
+      "Agrega aceite, limon, sal y sesamo.",
+      "Mezcla hasta obtener crema.",
+      "Ajusta con agua si hace falta."
+    ]
+  },
+  {
+    "id": "receta_rollitos_pepino_138",
+    "title": "Rollitos de Pepino con Queso Crema",
+    "description": "Rollitos frescos y rapidos.",
+    "category": "SNACK",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano",
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Pepino",
+        "qty": 1,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Queso crema",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Dill o ciboulette",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Limon",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Corta el pepino en laminas largas.",
+      "Mezcla queso crema con hierbas y limon.",
+      "Unta cada lamina y enrolla."
+    ]
+  },
+  {
+    "id": "receta_pan_plano_pizza_139",
+    "title": "Mini Pizzas en Pan Casero",
+    "description": "Mini pizza con masa casera.",
+    "category": "SNACK",
+    "prepMinutes": 20,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Harina",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Agua",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Especias"
+      },
+      {
+        "name": "Aceite",
+        "qty": 0.5,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Salsa de tomate casera",
+        "qty": 2,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Queso rallado",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Oregano",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla harina, agua, sal y aceite.",
+      "Amasa 1 min y aplana fino.",
+      "Cocina en sarten 1 a 2 min por lado.",
+      "Agrega salsa, queso y oregano.",
+      "Hornea 8 a 10 min a 200C."
+    ]
+  },
+  {
+    "id": "receta_queso_pan_143",
+    "title": "Queso Sellado al Sarten con Pan Casero",
+    "description": "Pan plano con queso sellado.",
+    "category": "SNACK",
+    "prepMinutes": 12,
+    "costLevel": "MID",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Queso mantecoso",
+        "qty": 1,
+        "unit": "trozo",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Harina",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Agua",
+        "qty": 0.25,
+        "unit": "taza",
+        "group": "Otros"
+      },
+      {
+        "name": "Sal",
+        "qty": 1,
+        "unit": "pizca",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla la harina con agua y sal y forma un pan plano.",
+      "Cocina en sarten 2 a 3 min por lado.",
+      "En otra sarten, dora el queso 1 a 2 min por lado.",
+      "Sirve con el pan."
+    ]
+  },
+  {
+    "id": "receta_bolas_energia_144",
+    "title": "Bolitas de Energia",
+    "description": "Snack dulce sin horno.",
+    "category": "SNACK",
+    "prepMinutes": 12,
+    "costLevel": "LOW",
+    "servingsBase": 2,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 0.5,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Mantequilla de mani",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Cacao",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Semillas chia",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      }
+    ],
+    "steps": [
+      "Mezcla todo hasta formar masa.",
+      "Arma bolitas.",
+      "Refrigera 10 minutos."
+    ]
+  },
+  {
+    "id": "receta_cereal_casero_146",
+    "title": "Cereal Casero Tostado",
+    "description": "Granola casera crocante.",
+    "category": "SNACK",
+    "prepMinutes": 10,
+    "costLevel": "LOW",
+    "servingsBase": 3,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Avena",
+        "qty": 1,
+        "unit": "taza",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Miel",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Aceite",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Nueces picadas",
+        "qty": 1,
+        "unit": "cda",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Semillas de girasol",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Canela",
+        "qty": "opcional",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla avena, miel, aceite y nueces.",
+      "Anade las semillas.",
+      "Tuesta en sarten 6 a 8 min.",
+      "Enfria para que quede crocante."
+    ]
+  },
+  {
+    "id": "receta_sandwich_pepino_147",
+    "title": "Sandwich de Pepino, Queso Crema y Hierbas",
+    "description": "Sandwich fresco tipo snack.",
+    "category": "SNACK",
+    "prepMinutes": 8,
+    "costLevel": "LOW",
+    "servingsBase": 1,
+    "dietTags": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "name": "Pan",
+        "qty": 2,
+        "unit": "rebanada",
+        "group": "Abarrotes"
+      },
+      {
+        "name": "Queso crema",
+        "qty": 3,
+        "unit": "cda",
+        "group": "Lacteos"
+      },
+      {
+        "name": "Pepino en laminas",
+        "qty": 6,
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Ciboulette",
+        "qty": 1,
+        "unit": "cdta",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Limon",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Verduras/Frutas"
+      },
+      {
+        "name": "Sal",
+        "qty": "a gusto",
+        "unit": "unidad",
+        "group": "Especias"
+      }
+    ],
+    "steps": [
+      "Mezcla queso crema con ciboulette y limon.",
+      "Unta el pan.",
+      "Agrega pepino.",
+      "Cierra y sirve."
+    ]
+  }
+]
