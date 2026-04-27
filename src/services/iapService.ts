@@ -1,4 +1,3 @@
-import * as ReactNativeIap from "react-native-iap";
 import { IAP_PRODUCT_IDS } from "../constants/appConstants";
 
 export type IapCatalog = {
@@ -25,7 +24,27 @@ export class IapPendingError extends Error {
   }
 }
 
-const IAP = ReactNativeIap as unknown as Record<string, any>;
+/**
+ * Lazy-loaded react-native-iap module. We require() it the first time it's
+ * actually needed (paywall open, purchase, restore) so the native side does
+ * not get touched at app startup. Loading the module on a device that lacks
+ * a Play Store debug context can crash the JS thread before any UI renders.
+ */
+let cachedIap: Record<string, any> | null = null;
+let iapLoadFailed = false;
+const getIap = (): Record<string, any> | null => {
+  if (cachedIap) return cachedIap;
+  if (iapLoadFailed) return null;
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    cachedIap = require("react-native-iap") as Record<string, any>;
+    return cachedIap;
+  } catch {
+    iapLoadFailed = true;
+    return null;
+  }
+};
+
 let initialized = false;
 let purchaseListener: { remove?: () => void } | null = null;
 let errorListener: { remove?: () => void } | null = null;
@@ -47,7 +66,8 @@ const isPendingError = (error: unknown): boolean => {
 };
 
 const ackPurchase = async (purchase: any, isConsumable: boolean): Promise<void> => {
-  if (!purchase) return;
+  const IAP = getIap();
+  if (!IAP || !purchase) return;
   try {
     if (typeof IAP.finishTransaction === "function") {
       await IAP.finishTransaction({ purchase, isConsumable });
@@ -57,13 +77,14 @@ const ackPurchase = async (purchase: any, isConsumable: boolean): Promise<void> 
       await IAP.acknowledgePurchaseAndroid({ token: purchase.purchaseToken });
     }
   } catch {
-    // swallow — Google Play retries acknowledgement, and a stale listener may already have done it
+    // swallow — Google Play retries acknowledgement
   }
 };
 
 export const initIap = async (): Promise<boolean> => {
   if (initialized) return true;
-  if (typeof IAP.initConnection !== "function") return false;
+  const IAP = getIap();
+  if (!IAP || typeof IAP.initConnection !== "function") return false;
   try {
     await IAP.initConnection();
 
@@ -71,8 +92,7 @@ export const initIap = async (): Promise<boolean> => {
       purchaseListener = IAP.purchaseUpdatedListener(async (purchase: any) => {
         const productId = purchase?.productId ?? purchase?.productIds?.[0];
         if (!productId) return;
-        const isLifetime = productId === IAP_PRODUCT_IDS.lifetime;
-        await ackPurchase(purchase, isLifetime ? false : false);
+        await ackPurchase(purchase, false);
       });
     }
     if (typeof IAP.purchaseErrorListener === "function" && !errorListener) {
@@ -89,12 +109,13 @@ export const initIap = async (): Promise<boolean> => {
 };
 
 export const endIapConnection = async (): Promise<void> => {
+  const IAP = getIap();
   try {
     purchaseListener?.remove?.();
     errorListener?.remove?.();
     purchaseListener = null;
     errorListener = null;
-    if (typeof IAP.endConnection === "function") {
+    if (IAP && typeof IAP.endConnection === "function") {
       await IAP.endConnection();
     }
   } catch {
@@ -111,7 +132,8 @@ export const getIapCatalog = async (): Promise<IapCatalog> => {
   };
 
   const ready = await initIap();
-  if (!ready || typeof IAP.fetchProducts !== "function") return fallback;
+  const IAP = getIap();
+  if (!ready || !IAP || typeof IAP.fetchProducts !== "function") return fallback;
 
   try {
     const products = (await IAP.fetchProducts({
@@ -140,7 +162,8 @@ export const getIapCatalog = async (): Promise<IapCatalog> => {
 
 export const getIapEntitlements = async (): Promise<IapEntitlements> => {
   const ready = await initIap();
-  if (!ready || typeof IAP.getAvailablePurchases !== "function") {
+  const IAP = getIap();
+  if (!ready || !IAP || typeof IAP.getAvailablePurchases !== "function") {
     return { hasSubscription: false, hasLifetime: false };
   }
 
@@ -171,7 +194,8 @@ export const getIapEntitlements = async (): Promise<IapEntitlements> => {
 
 const doPurchase = async (sku: string, type: "subs" | "in-app"): Promise<void> => {
   const ready = await initIap();
-  if (!ready || typeof IAP.requestPurchase !== "function") {
+  const IAP = getIap();
+  if (!ready || !IAP || typeof IAP.requestPurchase !== "function") {
     throw new Error("IAP_UNAVAILABLE");
   }
   try {
@@ -203,7 +227,8 @@ export const purchasePremiumLifetime = async (): Promise<void> => {
 
 export const restoreIapPurchases = async (): Promise<void> => {
   const ready = await initIap();
-  if (!ready) throw new Error("IAP_UNAVAILABLE");
+  const IAP = getIap();
+  if (!ready || !IAP) throw new Error("IAP_UNAVAILABLE");
   if (typeof IAP.restorePurchases === "function") {
     await IAP.restorePurchases();
     return;

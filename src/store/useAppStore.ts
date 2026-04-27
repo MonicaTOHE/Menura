@@ -126,18 +126,24 @@ export const useAppStore = create<AppStore>((set, get) => ({
   initialize: async () => {
     set({ loading: true, error: null });
     try {
-      const [{ deviceId }, premium, iapCatalog, appThemeId] = await Promise.all([
+      // IAP and premium state are now resolved lazily (when the user opens the
+      // paywall) so that an Android device without a valid Play Store debug
+      // context cannot crash the app at startup.
+      const [{ deviceId }, premium, appThemeId] = await Promise.all([
         bootstrapAppData(),
-        getInitialPremiumState(),
-        getIapCatalog(),
+        getInitialPremiumState().catch(() => ({
+          isPremium: false,
+          hasLifetime: false,
+          hasSubscription: false,
+          updatedAt: new Date(0).toISOString(),
+        })),
         getAppThemeId(),
       ]);
-      set({ deviceId, premium, iapCatalog, appThemeId });
+      set({ deviceId, premium, iapCatalog: null, appThemeId });
       await Promise.all([
         get().reloadRecipes(),
         get().reloadWeekData(),
         get().reloadHouseholdMembers(),
-        get().refreshPremium(),
       ]);
       set({ initialized: true });
     } catch (error) {
