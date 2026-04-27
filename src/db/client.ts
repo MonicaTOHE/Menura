@@ -1,20 +1,23 @@
-import { open, type DB } from "@op-engineering/op-sqlite";
+import SQLite, { type SQLiteDatabase } from "react-native-sqlite-storage";
 import { DB_NAME } from "../constants/appConstants";
 
-export type Database = DB;
+SQLite.enablePromise(true);
 
-let dbInstance: Database | null = null;
+export type Database = SQLiteDatabase;
+
+let dbPromise: Promise<Database> | null = null;
 
 export const getDb = async (): Promise<Database> => {
-  if (!dbInstance) {
-    dbInstance = open({ name: DB_NAME });
+  if (!dbPromise) {
+    dbPromise = SQLite.openDatabase({ name: DB_NAME, location: "default" });
   }
-  return dbInstance;
+  return dbPromise;
 };
 
 export const closeDb = async (): Promise<void> => {
-  if (dbInstance) {
-    dbInstance.close();
-    dbInstance = null;
+  if (dbPromise) {
+    const db = await dbPromise;
+    await db.close();
+    dbPromise = null;
   }
 };

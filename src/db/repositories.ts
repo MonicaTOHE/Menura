@@ -40,37 +40,29 @@ const mapRecipeRow = (row: RecipeRow): Recipe => ({
   isCustom: row.isCustom === 1,
 });
 
-const queryAll = async <T>(db: Database, sql: string, params?: unknown[]): Promise<T[]> => {
-  const result = await db.execute(sql, (params as unknown as never) ?? []);
-  return (result.rows ?? []) as T[];
+const queryAll = async <T>(db: Database, sql: string, params: unknown[] = []): Promise<T[]> => {
+  const [result] = await db.executeSql(sql, params as never[]);
+  const rows: T[] = [];
+  for (let i = 0; i < result.rows.length; i += 1) {
+    rows.push(result.rows.item(i) as T);
+  }
+  return rows;
 };
 
-const queryFirst = async <T>(db: Database, sql: string, params?: unknown[]): Promise<T | null> => {
+const queryFirst = async <T>(db: Database, sql: string, params: unknown[] = []): Promise<T | null> => {
   const rows = await queryAll<T>(db, sql, params);
   return rows.length > 0 ? rows[0] : null;
 };
 
-const exec = async (db: Database, sql: string, params?: unknown[]): Promise<void> => {
-  await db.execute(sql, (params as unknown as never) ?? []);
-};
-
-const runInTransaction = async (db: Database, work: () => Promise<void>): Promise<void> => {
-  await db.execute("BEGIN TRANSACTION");
-  try {
-    await work();
-    await db.execute("COMMIT");
-  } catch (err) {
-    await db.execute("ROLLBACK");
-    throw err;
-  }
+const exec = async (db: Database, sql: string, params: unknown[] = []): Promise<void> => {
+  await db.executeSql(sql, params as never[]);
 };
 
 export const insertRecipes = async (recipes: Recipe[]): Promise<void> => {
   const db = await getDb();
-  await runInTransaction(db, async () => {
+  await db.transaction(async (tx) => {
     for (const recipe of recipes) {
-      await exec(
-        db,
+      await tx.executeSql(
         `INSERT OR REPLACE INTO recipes
         (id, title, description, category, prepMinutes, costLevel, servingsBase, dietTagsJson, ingredientsJson, stepsJson, isCustom)
         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
@@ -94,10 +86,10 @@ export const insertRecipes = async (recipes: Recipe[]): Promise<void> => {
 
 export const replaceSeedRecipes = async (recipes: Recipe[]): Promise<void> => {
   const db = await getDb();
-  await runInTransaction(db, async () => {
-    await exec(db, "DELETE FROM favorites WHERE recipeId IN (SELECT id FROM recipes WHERE isCustom = 0)");
-    await exec(db, "DELETE FROM meal_plan_entries WHERE recipeId IN (SELECT id FROM recipes WHERE isCustom = 0)");
-    await exec(db, "DELETE FROM recipes WHERE isCustom = 0");
+  await db.transaction(async (tx) => {
+    await tx.executeSql("DELETE FROM favorites WHERE recipeId IN (SELECT id FROM recipes WHERE isCustom = 0)");
+    await tx.executeSql("DELETE FROM meal_plan_entries WHERE recipeId IN (SELECT id FROM recipes WHERE isCustom = 0)");
+    await tx.executeSql("DELETE FROM recipes WHERE isCustom = 0");
   });
   await insertRecipes(recipes.map((recipe) => ({ ...recipe, isCustom: false })));
 };
@@ -156,10 +148,10 @@ export const updateCustomRecipe = async (input: CustomRecipeInput & { id: string
 
 export const deleteCustomRecipe = async (id: string): Promise<void> => {
   const db = await getDb();
-  await runInTransaction(db, async () => {
-    await exec(db, "DELETE FROM recipes WHERE id = ? AND isCustom = 1", [id]);
-    await exec(db, "DELETE FROM favorites WHERE recipeId = ?", [id]);
-    await exec(db, "DELETE FROM meal_plan_entries WHERE recipeId = ?", [id]);
+  await db.transaction(async (tx) => {
+    await tx.executeSql("DELETE FROM recipes WHERE id = ? AND isCustom = 1", [id]);
+    await tx.executeSql("DELETE FROM favorites WHERE recipeId = ?", [id]);
+    await tx.executeSql("DELETE FROM meal_plan_entries WHERE recipeId = ?", [id]);
   });
 };
 
@@ -289,9 +281,9 @@ export const upsertHouseholdMember = async (member: HouseholdMember): Promise<vo
 
 export const deleteHouseholdMember = async (id: string): Promise<void> => {
   const db = await getDb();
-  await runInTransaction(db, async () => {
-    await exec(db, "DELETE FROM meal_plan_entries WHERE forMember = ?", [id]);
-    await exec(db, "DELETE FROM household_members WHERE id = ?", [id]);
+  await db.transaction(async (tx) => {
+    await tx.executeSql("DELETE FROM meal_plan_entries WHERE forMember = ?", [id]);
+    await tx.executeSql("DELETE FROM household_members WHERE id = ?", [id]);
   });
 };
 
